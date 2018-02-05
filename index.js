@@ -9,7 +9,7 @@ var htmlMinifier    = require("metalsmith-html-minifier")
 Metalsmith(__dirname)
   .metadata({
     sitename: 'bukkitoks.lt',
-    siteurl: 'https://modest-nightingale-b38d67.netlify.com/',
+    siteurl: 'https://www.bukkitoks.lt/',
     // siteurl: 'http://localhost:3000/',
     description: 'It\'s about saying »Hello« to the world.',
     phone: '+370 620 60 620',
