@@ -1,0 +1,38 @@
+extends ./default.pug
+
+block promo
+ 
+
+block contentas
+ section
+  .r
+   .counter.rellax(data-rellax-speed='3') Seminaras
+   .c5.text-right.p-r
+    .pkr #{renginys_skirtas}
+    h2 #{title}
+    table.text-left
+     thead
+      tr
+       th Data
+       th Laikas
+       th Užsiėmimų vieta
+       th Investicija
+     tbody
+      tr
+       td #{renginio_data}
+       td #{renginio_laikas}
+       if renginio_vietos_map
+        td 
+         a(href=renginio_vietos_map target='_blank' rel='noopener noreferrer') #{renginio_vieta}
+       else
+        td #{renginio_vieta}
+       
+       td #{renginio_kaina}€
+   .c5.p-l
+    != contents
+    //- Reguliuojam gyvai/internetu pasirinkimą formoje
+    -var budas = false
+    include ./partials/form-order.pug
+
+block append netlify-edentity
+ include ./partials/form-validation.html

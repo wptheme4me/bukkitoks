@@ -1,0 +1,60 @@
+h3#forma Registracija į šiuos mokymus 
+
+form(name='registracija_sheet' id='registracija_sheet')
+ fieldset(id='uzsakovas')
+  legend Užsakovas
+  input(type='radio' name='uzsakovas' id='imone' value='Įmonė' checked='')
+  label(for='imone') Įmonė
+  input(type='radio' name='uzsakovas' id='asmuo' value='Asmuo')
+  label(for='asmuo') Asmuo
+
+ fieldset(id='kontaktinis')
+  legend Kontaktinė informacija
+
+  label(for='vardas') Vardas
+  input(type='text' name='vardas' id='vardas' placeholder='Vardas' title='Įveskite kontaktinio asmens vardą (bus naudojama rašant sąskaitą faktūrą)' required='')
+
+  label(for='pavarde') Pavardė
+  input(type='text' name='pavarde' id='pavarde' placeholder='Pavardė' title='Įveskite kontaktinio asmens pavardę (bus naudojama rašant sąskaitą faktūrą)' required='')
+
+  label(for='klientoadresas') Adresas
+  input(type='text' name='klientoadresas' id='klientoadresas' placeholder='Gatvė, namo nr., buto nr., miestas' title='Įveskite adresą (bus naudojama rašant sąskaitą faktūrą)' required='')
+  span.tooltip Gatvės pavadinimas, namo nr., buto nr., miestas
+
+  label(for='elpastas') El.pašto adresas
+  input(type='email' name='elpastas' id='elpastas' placeholder='El.pašto adresas' title='Įveskite el.pašto adresą (juo siųsime informaciją)' required='')
+  span.tooltip Pvz. dezute@varduzona.lt
+
+  input(type='hidden' name='mokymai' id='mokymai' value=title)
+  input(type='hidden' name='kaina' id='kaina' value=kaina)
+
+ fieldset(id='apie_imone')
+  legend Įmonės duomenys
+
+  label(for='imones_pavadinimas') Įmonės pavadinimas
+  input(type='text' name='imones_pavadinimas' id='imones_pavadinimas' placeholder='Įmonės pavadinimas' title='Įveskite įmonės pavadinimą (bus naudojama rašant sąskaitą faktūrą)' required='')
+ 
+  label(for='imones_kodas') Įmonės kodas
+  input(type='text' name='imones_kodas' id='imones_kodas' placeholder='Įmonės kodas' maxlength='9' title='Įveskite įmonės kodą (bus naudojama rašant sąskaitą faktūrą)' oninput="this.value = this.value.replace(/[^0-9.]/g, ''); this.value = this.value.replace(/(\\..*)\\./g, '$1');" required='')
+  span.tooltip Formatu 123456789
+
+  label(for='imones_pvm_kodas') Įmonės PVM kodas
+  input(type='text' name='imones_pvm_kodas' id='imones_pvm_kodas' placeholder='Įmonės PVM kodas' maxlength='20' pattern='LT[0-9]{18}' title='Jei įmonė PVM mokėtojas įveskite PVM mokėtojo kodą (bus naudojama rašant sąskaitą faktūrą)' required='')
+  span.tooltip Formatu LTXXXXXXXXXX
+
+ //- Reguliuojam gyvai/internetu pasirinkimą formoje
+ if budas 
+  fieldset(id='budas')
+   legend Mokymosi būdas ir dalyviai
+
+   label(for='dalyviu_kiekis') Dalyvių kiekis
+   input(type='number' name='dalyviu_kiekis' id='dalyviu_kiekis' value='1' min='1')
+
+   input(type='radio' name='mokymosi_budas' id='gyvai' value='Gyvai' title='Mokymai vyks fiziškai visiems esant vienoje patalpoje' checked='')  
+   label(for='gyvai') Gyvai
+                
+   input(type='radio' name='mokymosi_budas' id='internetu' value='Internetu' title='Mokymai vyks internetu prisijungus prie mokymo platformos')
+   label(for='internetu') Internetu
+   
+
+ input(type='submit' value='Užsakyti mokymus' id='submit_form')

@@ -1,0 +1,49 @@
+backend:
+  name: git-gateway
+  branch: master
+
+media_folder: "src/img/uploads" # Media files will be stored in the repo under src/img/uploads
+public_folder: "img/uploads"  # The src attribute for uploaded media will begin with img/uploads
+
+collections:
+  - name: "mokymai" # Used in routes, e.g., /admin/collections/blog
+    label: "Mokymai" # Used in the UI
+    folder: "src/mokymai" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    fields: # The fields for each document, usually in front matter
+      - {label: "Eiliškumas", name: "eiliskumas", widget: "number"}
+      - {label: "Sritis", name: "sritis", widget: "string"}
+      - {label: "Pavadinimas", name: "title", widget: "string"}
+      - {label: "Šablonas", name: "layout", widget: "hidden", default: "mokymai.pug"}
+      - {label: "Mokymosi būdas", name: "mok_budas", widget: "string"}
+      - {label: "Mokymu trukme", name: "trukme", widget: "number"}
+      - {label: "Dalyvių skaičius", name: "dalyviai", widget: "number"}
+      - {label: "Kaina", name: "kaina", widget: "number"}
+      # - {label: "Renginio data", name: "renginio_data", widget: "date", format: "YYYY-MM-DD"}
+      - {label: "Aprašymas", name: "body", widget: "markdown"}
+  - name: "lektorius" # Used in routes, e.g., /admin/collections/blog
+    label: "Lektorius" # Used in the UI
+    folder: "src/lektorius/ignore" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    fields: # The fields for each document, usually in front matter
+      - {label: "Eiliškumas", name: "eiliskumas", widget: "number"}
+      - {label: "Skilties pavadinimas", name: "title", widget: "string"}
+      - {label: "Sritis", name: "sritis", widget: "string"}
+      - {label: "Aprašymas", name: "body", widget: "markdown"}
+  - name: "renginys" # Used in routes, e.g., /admin/collections/blog
+    label: "Artimiausi seminarai, mokymai" # Used in the UI
+    folder: "src/seminaras" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    fields: # The fields for each document, usually in front matter
+      - {label: "Aktyvus", name: "aktyvus", widget: "boolean"}
+      - {label: "Pavadinimas", name: "title", widget: "string"}
+      - {label: "Renginio tipas (didelės raidės fone)", name: "fonas", widget: "string"}
+      - {label: "Skirta kam", name: "renginys_skirtas", widget: "string"}
+      - {label: "Video klipas", name: "video", widget: "string"}
+      - {label: "Šablonas", name: "layout", widget: "hidden", default: "seminaras.pug"}
+      - {label: "Renginio data (Metai-men-diena)", name: "renginio_data", widget: "date", format: "YYYY-MM-DD"}
+      - {label: "Renginio laikas (nuo-iki val.)", name: "renginio_laikas", widget: "string"}
+      - {label: "Renginio vieta (adresas arba Internetu)", name: "renginio_vieta", widget: "string"}
+      - {label: "Renginio vietos nuoroda žemėlapyje (jei Internetu - tuščia)", name: "renginio_vietos_map", widget: "string"}
+      - {label: "Kaina", name: "renginio_kaina", widget: "number"}
+      - {label: "Aprašymas", name: "body", widget: "markdown"}

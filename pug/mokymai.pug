@@ -1,0 +1,34 @@
+extends ./default.pug
+
+block promo
+ 
+
+block contentas
+ section
+  .r
+   .counter.rellax(data-rellax-speed='3') Mokymai
+   .c5.text-right.p-r
+    .pkr #{sritis}
+    h2 #{title}
+    table.text-left
+     thead
+      tr
+       th Trukmė
+       th Dalyvių skaičius
+       th Mokymosi būdas
+       th Investicija
+     tbody
+      tr
+       td #{trukme}val.
+       td #{dalyviai}
+       td #{mok_budas}
+       td #{kaina}€
+
+   .c5.p-l
+    != contents
+    //- Reguliuojam gyvai/internetu pasirinkimą formoje
+    -var budas = true
+    include ./partials/form-order.pug
+
+block append netlify-edentity
+ include ./partials/form-validation.html

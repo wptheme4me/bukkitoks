@@ -1,0 +1,33 @@
+each page in collections.seminaras
+ if page.aktyvus
+  section  
+   .r
+    .counter.rellax(data-rellax-speed='3') #{page.fonas}
+    .c5.text-right.pr
+     .pkr #{page.renginys_skirtas}
+     h2 #{page.title} 
+     table.text-left
+      thead
+       tr
+        th Data
+        th Laikas
+        th Užsiėmimų vieta
+        th Investicija
+      tbody
+       tr
+        td #{page.renginio_data}
+        td #{page.renginio_laikas}
+        if page.renginio_vietos_map
+         td 
+          a(href=page.renginio_vietos_map target='_blank' rel='noopener noreferrer') #{page.renginio_vieta}
+        else
+         td #{page.renginio_vieta}
+        td #{page.renginio_kaina}€
+
+     br 
+     h3
+      a(href=siteurl + page.path.replace(/ /g, "-")) Registruotis į šį seminarą
+
+    .c5
+     .video
+      iframe(src=page.video frameborder='0' allowfullscreen)

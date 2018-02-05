@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+html(lang="lt")
+    head
+        meta(charset="UTF-8")
+        meta(name="viewport", content="width=device-width, initial-scale=1.0, minimum-scale=1")
+        meta(http-equiv="X-UA-Compatible", content="ie=edge")
+        meta(name="description" content="Lektoriaus Rimvydo Jurkuvėno internetinė svetainė, kurioje atrasite Jums asmeniškai ar Jūsų darbuotojams rekomenduojamas mokymosi ir mokomąsias sesijas bei seminarus.")
+        //- meta(property='og:title' content='Rimvydas Jurkuvėnas - seminarai, mokymai')
+        //- meta(property='og:type' content='') 
+        //- meta(property='og:url' content='https://www.bukkitoks.lt/')
+        //- meta(property='og:image' content='http://image.jpg')
+        title #{title} | #{sitename}
+        link(href="https://fonts.googleapis.com/css?family=Open+Sans:400,800&amp;subset=latin-ext" rel="stylesheet")
+        link(rel="stylesheet", href=siteurl + "css/style.css?v=103")
+        link(href=siteurl + 'favicon.ico' rel='icon' type='image/x-icon')
+        script(src="https://identity-js.netlify.com/v1/netlify-identity-widget.js")
+        include ./partials/google_analytics.html
+      
+    body
+
+        header
+         .center-both
+          #kontaktai
+           p.h3 Lektorius
+           h1 Rimvydas Jurkuvėnas
+           p.h4 
+            a(href='tel:+37062060620') +370 620 60 620 <br>
+            a(href='mailto:rimvydas@bukkitoks.lt') rimvydas@bukkitoks.lt
+          #rimvydas.rellax(data-rellax-speed='10')
+          #navigacija.text-right
+           h1 Mokymai, seminarai
+            -var sritys = []
+           .h4
+            each sritis in collections.mokymai
+             -var o = sritis.sritis
+             -if (! sritys.includes(o)) { 
+             -sritys.push(o) 
+              //- a(href=siteurl + '#' + o)=o
+              a(href=siteurl + '#mokymai')=o
+              br
+             -}
+
+        block promo
+         include ./partials/promo.pug
+
+        block contentas         
+         #mokymai
+          -var sk = collections.mokymai.length
+          each page, i in collections.mokymai
+           section(itemscope='' itemtype='http://schema.org/Course')
+            .r
+             .c5.text-right.p-r
+              .counter.post.rellax(data-rellax-speed='-1')
+               if (sk < 10)
+                !='0'+ (i+1) + '/0' + sk
+               else
+                != (i+1) + '/' + sk
+              .lekt(itemscope='' itemtype='http://schema.org/Organization' itemprop="provider")
+               a(href=siteurl + 'lektorius/rimvydas-jurkuvenas.html')
+                p Lektorius
+                p.h4(itemprop="name") Rimvydas<br>Jurkuvėnas
+              h2(itemprop="name") #{page.title}
+              .pkr #{page.sritis}
+             .c5.p-l
+              table.text-left
+               thead
+                tr
+                 th Trukmė
+                 th Dalyvių skaičius
+                 th Mokymosi būdas
+                 th Investicija
+               tbody
+                tr
+                 td #{page.trukme}val.
+                 td #{page.dalyviai}
+                 td #{page.mok_budas}
+                 td #{page.kaina}€
+
+              p.pt(itemprop="description")!= page.excerpt 
+               | 
+               a(href=siteurl + page.path.replace(/ /g, "-")) Detalesnė informacija apie šiuos mokymus
+              h3 
+               a.rodo(href=siteurl + page.path.replace(/ /g, "-") + '#forma') Užsisakyti šiuos mokymus
+
+        include ./partials/footer.pug
+        
+        block netlify-edentity
+         include ./partials/netlify-identity.html
+
+        script(src=siteurl +'js/rellax.min.js')
+        script. 
+         var rellax = new Rellax('.rellax')

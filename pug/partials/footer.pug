@@ -1,0 +1,22 @@
+footer
+ .r
+  .c3
+   h3 bukkitoks.lt
+   p "Būk Kitoks" - tai lektoriaus Rimvydo Jurkuvėno internetinė svetainė, kurioje atrasite Jums asmeniškai ar Jūsų darbuotojams rekomenduojamas mokymosi ir mokomąsias sesijas ar seminarus.
+   p.social
+    a(href='https://www.facebook.com/rimvydas.jurkuvenas') Facebook
+    //- a(href='https://www.youtube.com/channel/UCLce9PmdRXBGN-2UJXeLcrg') Youtube
+    a(href='https://www.linkedin.com/in/rimvydas-jurkuv%C4%97nas-37a62b2/') Linkedin
+   p Rimvydo Jurkuvėno individuali veikla "RJ Training" <br /> Pažymėjimo numeris 668916
+  .c3.text-right 
+   nav
+    h3 Mokymai:
+    each page in collections.mokymai
+     a(href=siteurl + page.path.replace(/ /g, "-")) #{page.title}
+  .c3.text-right
+   nav
+    h3 Lektorius:
+    a(href=siteurl + 'lektorius/rimvydas-jurkuvenas.html') Rimvydas Jurkuvėnas
+    a(href='mailto:' + email)=email
+    a(href='tel:+37062060620')=phone
+  
