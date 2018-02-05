@@ -16,7 +16,7 @@ collections:
       - {label: "Pavadinimas", name: "title", widget: "string"}
       - {label: "Šablonas", name: "layout", widget: "hidden", default: "mokymai.pug"}
       - {label: "Mokymosi būdas", name: "mok_budas", widget: "string"}
-      - {label: "Mokymu trukme", name: "trukme", widget: "number"}
+      - {label: "Mokymu trukme", name: "trukme", widget: "string"}
       - {label: "Dalyvių skaičius", name: "dalyviai", widget: "number"}
       - {label: "Investicija", name: "kaina", widget: "number"}
       # - {label: "Renginio data", name: "renginio_data", widget: "date", format: "YYYY-MM-DD"}
