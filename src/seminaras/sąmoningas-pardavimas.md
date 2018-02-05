@@ -1,5 +1,5 @@
 ---
-aktyvus: true
+aktyvus: false
 title: Sąmoningas pardavimas
 fonas: Webinaras
 renginys_skirtas: 'Seminaras pardavimų vadybininkams, vadovams'
