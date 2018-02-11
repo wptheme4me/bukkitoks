@@ -41,9 +41,11 @@ submitBtn.addEventListener('click', function(e){
 
 function sendForm(){
   console.log('sendForm');
+  var forma = document.getElementsByName('contact')
+  var formData = new FormData(forma);
   
     var xhr = new XMLHttpRequest()
-    xhr.open('POST', url)
+    xhr.open('POST', forma[0].action)
     xhr.setRequestHeader('Content-Type', 'application/x-www-form-urlencoded')
     xhr.send(formData)
 
