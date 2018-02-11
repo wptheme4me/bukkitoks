@@ -35,8 +35,8 @@ html(lang="lt")
              -var o = sritis.sritis
              -if (! sritys.includes(o)) { 
              -sritys.push(o) 
-              //- a(href=siteurl + '#' + o)=o
-              a(href=siteurl + '#mokymai')=o
+              a(href=siteurl + '#' + o.replace(/ /g, "-"))=o
+              //- a(href=siteurl + '#mokymai')=o
               br
              -}
 
@@ -44,10 +44,16 @@ html(lang="lt")
          include ./partials/promo.pug
 
         block contentas         
-         #mokymai
-          -var sk = collections.mokymai.length
-          each page, i in collections.mokymai
+         -var sk = collections.mokymai.length
+         -var sritys = []
+         each page, i in collections.mokymai
+          -var o = page.sritis
+          -if (! sritys.includes(o)) {
+          -sritys.push(o) 
+           section(id=o.replace(/ /g, "-") itemscope='' itemtype='http://schema.org/Course')
+          -} else {
            section(itemscope='' itemtype='http://schema.org/Course')
+          -}
             .r
              .c5.text-right.p-r
               .counter.post.rellax(data-rellax-speed='-1')
