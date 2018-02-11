@@ -26,8 +26,11 @@ each page in collections.seminaras
 
      br 
      h3
-      a(href=siteurl + page.path.replace(/ /g, "-")) Registruotis į šį seminarą
+      a(href=page.paysera_bilietai) Registruotis į šį seminarą
 
     .c5
-     .video
-      iframe(src=page.video frameborder='0' allowfullscreen)
+     if page.video
+      .video
+       iframe(src=page.video frameborder='0' allowfullscreen)
+     else
+      img.img(src=page.photo, alt=page.title)
