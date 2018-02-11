@@ -7,7 +7,7 @@ mok_budas: 'Internetu, gyvai'
 trukme: '8'
 dalyviai: 15
 kaina: '149'
-video:
+video: 'https://www.youtube.com/embed/nNnZkd54dB8'
 ---
 Pasitikėjimas savimi - teigiamos emocijos ir beribės galimybės.
 
