@@ -12,17 +12,65 @@
             <label>Don’t fill this out: <input name="bot-field"></label>
         </p>
         <p>
-          <label>Vardas: <input type="text" name="name"></label>   
+          <label>Vardas: <input type="text" name="Vardas"></label>   
         </p>
         <p>
-          <label>Your Email: <input type="email" name="email"></label>
+          <label>Pavardė: <input type="text" name="Pavardė"></label>   
+          </p>
+        <p>
+          <label>El.pašto adresas: <input type="email" name="Elpaštas"></label>
         </p>
         <p>
-          <label>Message: <textarea name="message"></textarea></label>
+            <label>Tel.nr.: <input type="email" name="Telefonas"></label>
+          </p>
+        <p>
+            <label>Įmonė: <input type="text" name="Įmonė"></label>
         </p>
         <p>
-          <button type="submit">Send</button>
+          <button type="submit" id="sendForm">Send</button>
         </p>
       </form>
+
+<script>
+
+var submitBtn = document.getElementById('sendForm')           
+submitBtn.addEventListener('click', function(e){
+  e.preventDefault()
+  sendForm()
+})
+
+function sendForm(){
+  console.log('sendForm');
+  
+    var xhr = new XMLHttpRequest()
+    xhr.open('POST', url)
+    xhr.setRequestHeader('Content-Type', 'application/x-www-form-urlencoded')
+    xhr.send(formData)
+
+    // Callback function
+    xhr.onloadend = function (response) {
+        if (response.target.status === 0) {
+
+            // Failed XmlHttpRequest should be considered an undefined error.
+            formStatus.className += ' alert-danger'
+            formStatus.innerHTML = 'Status 0'
+
+        } else if (response.target.status === 400) {
+
+            // Bad Request
+            formStatus.className += ' alert-danger'
+            formStatus.innerHTML = JSON.parse(response.target.responseText).error
+
+        } else if (response.target.status === 200) {
+
+            // Success
+            formStatus.className += ' alert-success'
+            submitBtn.value = 'Status 200' + JSON.parse(response.target.responseText)
+            console.log(response)
+
+        }
+      }
+}
+</script>
 </body>
 </html>
