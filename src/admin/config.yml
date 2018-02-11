@@ -39,8 +39,8 @@ collections:
       - {label: "Pavadinimas", name: "title", widget: "string"}
       - {label: "Renginio tipas (didelės raidės fone)", name: "fonas", widget: "string"}
       - {label: "Skirta kam", name: "renginys_skirtas", widget: "string"}
-      - {label: "Video klipas", name: "video", widget: "string", required: "false"}
-      - {label: "Nuotrauka", name: "photo", widget: "image", required: "false"}
+      - {label: "Video klipas", name: "video", widget: "string", required: false}
+      - {label: "Nuotrauka", name: "photo", widget: "image", required: false}
       - {label: "Šablonas", name: "layout", widget: "hidden", default: "seminaras.pug"}
       - {label: "Renginio data (Metai-men-diena)", name: "renginio_data", widget: "date", format: "YYYY-MM-DD"}
       - {label: "Renginio laikas (nuo-iki val.)", name: "renginio_laikas", widget: "string"}
