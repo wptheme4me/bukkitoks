@@ -3,7 +3,8 @@ aktyvus: true
 title: Sąmoningas pardavimas
 fonas: Webinaras
 renginys_skirtas: 'Seminaras pardavimų vadybininkams, vadovams'
-video: 'https://www.youtube.com/embed/YrCEizAwbI4'
+video: ''
+photo: /img/uploads/vertybes.jpg
 layout: seminaras.pug
 renginio_data: '2017-12-19'
 renginio_laikas: '18:00-21:00'
