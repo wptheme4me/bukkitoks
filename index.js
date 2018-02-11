@@ -1,10 +1,10 @@
-var Metalsmith      = require('metalsmith')
-var collections     = require('metalsmith-collections')
-var layouts         = require('metalsmith-layouts')
-var markdown        = require('metalsmith-markdown')
-var excerpt         = require('metalsmith-better-excerpts')
-var ignore          = require('metalsmith-ignore')
-var htmlMinifier    = require("metalsmith-html-minifier")
+var Metalsmith = require('metalsmith')
+var collections = require('metalsmith-collections')
+var layouts = require('metalsmith-layouts')
+var markdown = require('metalsmith-markdown')
+var excerpt = require('metalsmith-better-excerpts')
+var ignore = require('metalsmith-ignore')
+var htmlMinifier = require('metalsmith-html-minifier')
 
 Metalsmith(__dirname)
   .metadata({
@@ -37,11 +37,6 @@ Metalsmith(__dirname)
       pattern: 'seminaras/*.html'
     }
   }))
-  // .use(function (files, ms, done) {
-  //   // console.log(ms._metadata.collections.lektorius[0].contents.toString())
-  //   console.log('files', files)
-  //   done()
-  // })
   .use(layouts({ // https://github.com/ismay/metalsmith-layouts
     engine: 'pug',
     directory: 'pug',
@@ -49,7 +44,7 @@ Metalsmith(__dirname)
     // partials: '' //directory for the partials (optional)
   }))
   .use(ignore([
-    'lektorius/ignore/*'
+    'lektorius/ignore/*', 'seminaras/*'
   ]))
   .use(htmlMinifier({
     minifierOptions: {
