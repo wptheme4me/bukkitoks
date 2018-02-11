@@ -4,7 +4,7 @@ sritis: Vertybės
 title: Kryptingas tikslų siekimas per asmenines vertybes
 layout: mokymai.pug
 mok_budas: Gyvai
-trukme: '8.30'
+trukme: '8:30'
 dalyviai: '30'
 kaina: '230'
 ---
