@@ -25,6 +25,9 @@ block contentas
        td #{kaina}€
 
    .c5.p-l
+    if video
+     .video
+      iframe(src=page.video frameborder='0' allowfullscreen)
     != contents
     //- Reguliuojam gyvai/internetu pasirinkimą formoje
     -var budas = true

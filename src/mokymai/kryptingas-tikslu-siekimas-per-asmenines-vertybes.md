@@ -7,6 +7,7 @@ mok_budas: Gyvai
 trukme: '8:30'
 dalyviai: '30'
 kaina: '230'
+video:
 ---
 Vertybės - kam visa tai?!
 
