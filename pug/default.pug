@@ -50,9 +50,9 @@ html(lang="lt")
           -var o = page.sritis
           -if (! sritys.includes(o)) {
           -sritys.push(o) 
-           section(id=o.replace(/ /g, "-") itemscope='' itemtype='http://schema.org/Course')
+           section(id=o.replace(/ /g, "-"))
           -} else {
-           section(itemscope='' itemtype='http://schema.org/Course')
+           section
           -}
             .r
              .c5.text-right.p-r
@@ -61,11 +61,11 @@ html(lang="lt")
                 !='0'+ (i+1) + '/0' + sk
                else
                 != (i+1) + '/' + sk
-              .lekt(itemscope='' itemtype='http://schema.org/Organization' itemprop="provider")
+              .lekt
                a(href=siteurl + 'lektorius/rimvydas-jurkuvenas.html')
                 p Lektorius
-                p.h4(itemprop="name") Rimvydas<br>Jurkuvėnas
-              h2(itemprop="name") #{page.title}
+                p.h4 Rimvydas<br>Jurkuvėnas
+              h2 #{page.title}
               .pkr #{page.sritis}
              .c5.p-l
               table.text-left
@@ -82,7 +82,7 @@ html(lang="lt")
                  td #{page.mok_budas}
                  td #{page.kaina}€
 
-              p.pt(itemprop="description")!= page.excerpt 
+              p.pt!= page.excerpt 
                | 
                a(href=siteurl + page.path.replace(/ /g, "-")) Detalesnė informacija apie šiuos mokymus
               h3 
