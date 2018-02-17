@@ -26,8 +26,8 @@ block contentas
 
    .c5.p-l
     if video
-     .video
-      iframe(src=video frameborder='0' allowfullscreen)
+     .video!=video
+      //- iframe(src=video frameborder='0' allowfullscreen)
     != contents
     //- Reguliuojam gyvai/internetu pasirinkimą formoje
     -var budas = true

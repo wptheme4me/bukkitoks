@@ -30,7 +30,7 @@ each page in collections.seminaras
 
     .c5
      if page.video
-      .video
-       iframe(src=page.video frameborder='0' allowfullscreen)
+      .video!= page.video
+      //-  iframe(src=page.video frameborder='0' allowfullscreen)
      else
       img.img(src=page.photo, alt=page.title)

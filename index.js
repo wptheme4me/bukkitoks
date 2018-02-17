@@ -27,14 +27,16 @@ Metalsmith(__dirname)
   .use(collections({  // Used for navigation purposes
     mokymai: {
       pattern: 'mokymai/*.html',
-      sortBy: 'eiliskumas'
+      sortBy: 'eiliskumas',
+      refer: false
     },
     lektorius: {
-      pattern: 'lektorius/ignore/*.html',
-      sortBy: 'eiliskumas'
+      pattern: 'lektorius/*.html',
+      refer: false
     },
     seminaras: {
-      pattern: 'seminaras/*.html'
+      pattern: 'seminaras/*.html',
+      refer: false
     }
   }))
   .use(layouts({ // https://github.com/ismay/metalsmith-layouts
@@ -44,7 +46,7 @@ Metalsmith(__dirname)
     // partials: '' //directory for the partials (optional)
   }))
   .use(ignore([
-    'lektorius/ignore/*', 'seminaras/*'
+    'seminaras/*'
   ]))
   .use(htmlMinifier({
     minifierOptions: {

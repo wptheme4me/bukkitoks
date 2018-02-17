@@ -1,12 +1,12 @@
 extends ./default.pug
 
 block promo
- 
+
 
 block contentas
  section
-  -var sk = collections.lektorius.length
-  each page, i in collections.lektorius
+  -var sk = apie.length
+  each page, i in apie
    .r
     .c5.text-right.p-r
      .counter.post.rellax(data-rellax-speed='-1')
@@ -14,7 +14,7 @@ block contentas
         !='0'+ (i+1) + '/0' + sk
       else
         != (i+1) + '/' + sk
-     h2 #{page.title}
+     h2 #{page.skilties_pavadinimas}
      .pkr #{page.sritis}
-    .c5.p-l
-     != page.contents
+    .c5.p-l= page.aprasymas
+      
