@@ -4,6 +4,7 @@ sritis: Vertybės
 title: Kryptingas tikslų siekimas per asmenines vertybes
 layout: mokymai.pug
 mok_budas: Gyvai
+antras_lektorius: Romualdas Mačiulis
 trukme: '8:30'
 dalyviai: '30'
 kaina: '230'
