@@ -3,7 +3,7 @@ eiliskumas: '5'
 sritis: Ugdymas
 title: Klausinėjimo nauda ir malonumas
 layout: mokymai.pug
-mok_budas: 'Internetu, gyvai'
+mok_budas: Internetu/ Gyvai
 trukme: '2'
 dalyviai: '30'
 kaina: '49'
