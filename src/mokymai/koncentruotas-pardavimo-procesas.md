@@ -3,9 +3,9 @@ eiliskumas: '1'
 sritis: Pardavimai
 title: Sąmoninga pardavimo seka
 layout: mokymai.pug
-mok_budas: Gyvai
+mok_budas: 'Gyvai, Internetu'
 trukme: '8'
-dalyviai: '17'
+dalyviai: '15'
 kaina: '159'
 ---
 Pardavimo procesas - malonumas su didele emocine ir finansine grąžomis, kurį išmokus kitaip nepavadinsi.
