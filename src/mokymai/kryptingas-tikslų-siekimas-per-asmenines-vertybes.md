@@ -8,7 +8,10 @@ antras_lektorius: Romualdas Mačiulis
 trukme: '9'
 dalyviai: '30'
 kaina: '250'
-video: 'https://youtu.be/A2Tz4EWMVYQ'
+video: >-
+  <iframe width="854" height="480"
+  src="https://www.youtube.com/embed/A2Tz4EWMVYQ" frameborder="0"
+  allow="autoplay; encrypted-media" allowfullscreen></iframe>
 ---
 Vertybės – tai kompasas, kuris nurodo kryptį, kaip norime gyventi, kokią ateitį turėti, kokioje aplinkoje augti. Bendraujant su tūkstančiais žmonių, nuo jauniausio iki vyriausio, pastebėjau, kad retas, kuris vadovaujasi konkrečiomis vertybėmis. Dažniausiai tai būna gyvenimo subrandinti ar išbandymų sukrėsti žmonės. Retas susimąsto apie vertybių vertę jų gyvenimo kokybei, kryptingam tikslų siekimui tačiau, kai tai atranda, prasideda nauja pradžia.
 
