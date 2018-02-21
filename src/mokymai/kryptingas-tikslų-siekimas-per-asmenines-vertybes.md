@@ -5,7 +5,7 @@ title: Kryptingas tikslų siekimas per asmenines vertybes
 layout: mokymai.pug
 mok_budas: Gyvai
 antras_lektorius: Romualdas Mačiulis
-trukme: '8:30'
+trukme: '9'
 dalyviai: '30'
 kaina: '250'
 video: 'https://youtu.be/A2Tz4EWMVYQ'
