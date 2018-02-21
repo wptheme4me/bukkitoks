@@ -5,7 +5,7 @@ title: '(Ne) Tikiu, kad (Ne) Galiu'
 layout: mokymai.pug
 mok_budas: Gyvai
 trukme: '8'
-dalyviai: '15'
+dalyviai: '20'
 kaina: '99'
 ---
 Pasitikėjimas savimi - teigiamos emocijos ir beribės galimybės.
