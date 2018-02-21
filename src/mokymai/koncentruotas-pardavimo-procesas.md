@@ -3,7 +3,7 @@ eiliskumas: '1'
 sritis: Pardavimai
 title: Sąmoninga pardavimo seka
 layout: mokymai.pug
-mok_budas: 'Gyvai, Internetu'
+mok_budas: Gyvai/ Internetu
 trukme: '8'
 dalyviai: '15'
 kaina: '159'
