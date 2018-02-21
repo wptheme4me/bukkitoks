@@ -1,11 +1,11 @@
 ---
-eiliskumas: '2'
+eiliskumas: '1'
 sritis: Pardavimai
-title: Koncentruotas pardavimo procesas
+title: Sąmoninga pardavimo seka
 layout: mokymai.pug
 mok_budas: Gyvai
 trukme: '8'
-dalyviai: '20'
+dalyviai: '17'
 kaina: '159'
 ---
 Pardavimo procesas - malonumas su didele emocine ir finansine grąžomis, kurį išmokus kitaip nepavadinsi.
