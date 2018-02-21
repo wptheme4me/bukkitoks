@@ -1,5 +1,5 @@
 ---
-eiliskumas: '1'
+eiliskumas: '2'
 sritis: Vertybės
 title: Kryptingas tikslų siekimas per asmenines vertybes
 layout: mokymai.pug
@@ -7,7 +7,7 @@ mok_budas: Gyvai
 antras_lektorius: Romualdas Mačiulis
 trukme: '8:30'
 dalyviai: '30'
-kaina: '230'
+kaina: '250'
 ---
 Vertybės – tai kompasas, kuris nurodo kryptį, kaip norime gyventi, kokią ateitį turėti, kokioje aplinkoje augti. Bendraujant su tūkstančiais žmonių, nuo jauniausio iki vyriausio, pastebėjau, kad retas, kuris vadovaujasi konkrečiomis vertybėmis. Dažniausiai tai būna gyvenimo subrandinti ar išbandymų sukrėsti žmonės. Retas susimąsto apie vertybių vertę jų gyvenimo kokybei, kryptingam tikslų siekimui tačiau, kai tai atranda, prasideda nauja pradžia.
 
