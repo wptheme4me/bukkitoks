@@ -1,5 +1,5 @@
 ---
-aktyvus: true
+aktyvus: false
 title: Kryptingas tikslų siekimas per asmenines vertybes
 fonas: Mokymai
 renginys_skirtas: Asmeniniam tobulėjimui
