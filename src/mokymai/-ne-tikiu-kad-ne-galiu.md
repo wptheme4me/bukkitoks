@@ -3,10 +3,10 @@ eiliskumas: '3'
 sritis: Viešas kalbėjimas
 title: '(Ne) Tikiu, kad (Ne) Galiu'
 layout: mokymai.pug
-mok_budas: 'Internetu, gyvai'
+mok_budas: Gyvai
 trukme: '8'
 dalyviai: '15'
-kaina: '149'
+kaina: '99'
 ---
 Pasitikėjimas savimi - teigiamos emocijos ir beribės galimybės.
 
