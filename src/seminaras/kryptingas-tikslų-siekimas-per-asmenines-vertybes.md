@@ -3,7 +3,7 @@ aktyvus: false
 title: Kryptingas tikslų siekimas per asmenines vertybes
 fonas: Mokymai
 renginys_skirtas: Asmeniniam tobulėjimui
-photo: /img/uploads/vertybes.jpg
+photo: /img/uploads/vertybes-sumazinta.jpg
 renginio_data: '2018-02-26'
 renginio_laikas: '08:30-18:00'
 renginio_vieta: 'Green Hotel, Ukmergės g. 363, Vilnius '
