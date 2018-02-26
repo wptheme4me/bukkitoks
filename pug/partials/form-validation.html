@@ -1,8 +1,5 @@
 <script>
     var form = document.getElementById('registracija_sheet')
-    var uzsakovas = form.elements['uzsakovas']
-    var apie_imone = document.getElementById('apie_imone')
-    var registracijos_data = new Date().toJSON().slice(0,10)
     var formData = ''
     var url = 'https://script.google.com/a/wptheme4.me/macros/s/AKfycbw8-UJcpYUSrYk0E7LLEqvuuqVRDflkXGvFhYpvyH58X9LYYno/exec'
 
@@ -12,37 +9,16 @@
             if (validateForm()) sendForm(formData)
         })
 
-    uzsakovas[1].addEventListener('change', function(){
-        if (this.checked) {
-          console.log('Imone')
-          toggle(true)
-          apie_imone.removeAttribute('class', 'notshow')
-        }  
-    })
-
-    uzsakovas[2].addEventListener('change', function(){
-      if (this.checked) {
-          console.log('Asmuo')
-          toggle(false)
-          apie_imone.setAttribute('class', 'notshow')
-
-        }
-    })
-
-    function toggle(tgl) {
-        var val = tgl ? '' : '----'
-        // formoje imones laukai yra 12-14
-        for (var i = 11; i < 14; i++ ) {
-            form.elements[i].value = val
-        }
-    }
-
     function validateForm(){
       // Collect form data for XMLHttpRequest
       var check = true
       var el = form.getElementsByTagName('input')
 
-      for (var i = 2; i < 10; i++) {
+      formData += '&' + el['mokymai'].name + '=' + encodeURIComponent(el['mokymai'].value) +
+                  '&' + el['kaina'].name + '=' + encodeURIComponent(el['kaina'].value) +
+                  '&' + el['mok_budas'].name + '=' + encodeURIComponent(el['mok_budas'].value)
+
+      for (var i = 0; i < 4; i++) {
 
           if (el[i].value == '') {
                 el[i].setAttribute('class', 'redline')
@@ -50,21 +26,11 @@
                 formData = ''
           } else {
                 el[i].setAttribute('class', 'greenline')
-                formData += el[i].name + '=' + encodeURIComponent(el[i].value) + '&'
+                formData += '&' + el[i].name + '=' + encodeURIComponent(el[i].value)
           }
       }
-
-      mok_budas = (el[12].checked) ? 'gyvai' : 'internetu'
-      
-      formData += 'registracijos_data=' + registracijos_data + 
-                  '&imones_pvm_kodas=' + el[10].value + 
-                  '&mokymosi_budas=' + mok_budas +
-                  '&dalyviu_kiekis=' + el[11].value + '&'
-      console.log(formData)
-    //   console.log(encodeURIComponent(formData))
       return check
   }
-
 
 
 
@@ -76,23 +42,19 @@
     var xhr = new XMLHttpRequest()
     
     xhr.onloadstart = function(response) {
-        console.log('onloadstart')
         // Chage btn text to inform user about form submit state
         submitBtn.value = 'Siunčiama'
     }
     xhr.onprogress = function(response) {
-        console.log('onprogress')
         // Chage btn text to inform user about form submit state
         submitBtn.value = 'Siunčiama luktelkite'
     }
     xhr.onload = function (response) {
-        console.log('onload')
         // Chage btn text to inform user about form submit state
         submitBtn.value = 'Jūsų užsakymas priimtas. Ačiū'
         submitBtn.style.background = 'green'
         // Reset data
         formData = ''
-        // todo: Reset form
     }
     
     xhr.onerror = function (response) {
@@ -103,7 +65,6 @@
     xhr.open('POST', url)
     xhr.setRequestHeader('Content-Type', 'application/x-www-form-urlencoded')
     xhr.send(formData)
-    // xhr.send(encodeURIComponent(formData))
 
   }
   </script>
