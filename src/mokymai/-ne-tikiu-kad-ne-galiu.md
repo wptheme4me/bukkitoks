@@ -16,4 +16,4 @@ Didelė žmonių dalis bijo išeiti prieš auditoriją, bijo pasisakyti viešai,
 
 **Sesijos tikslas: **sukurti žmonėms terpę, kurioje galėtų, pratimų dėka, sužadinti savyje pasitikėjimą, išmokti suvaldyti stresą ir artimiausiu metu, nuo rytojaus, susidurti su naujomis galimybėmis, leidžiančiomis išnaudoti įgytas žinias.
 
-**Sesija skirta: **įvairaus amžiaus žmonėms (suaugusiems). Ji tinka tiek individualiam, tiek grupiniam tobulėjimui.
+**Sesija skirta: **įvairaus amžiaus žmonėms. Ji tinka tiek individualiam, tiek grupiniam tobulėjimui, pasitikėjimo savimi stiprinimui.
