@@ -6,7 +6,7 @@ layout: mokymai.pug
 mok_budas: Gyvai
 trukme: '8'
 dalyviai: '20'
-kaina: '99'
+kaina: '119'
 ---
 Pasitikėjimas savimi - teigiamos emocijos ir beribės galimybės.
 
