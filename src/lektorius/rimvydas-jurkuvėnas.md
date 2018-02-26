@@ -4,19 +4,20 @@ photo: /img/uploads/lektorius-rimvydas-jurkuvenas.png
 layout: lektorius.pug
 apie:
   - aprasymas: >-
-      Žingeidus, aktyvus, pozityvus 34 metų vyras. Vedęs ir su žmona Laura
-      auginame trejų metų dukrytę Saulę. Šiuo metu esu individualios veiklos "RJ
-      Training" savininkas, mokymų treneris, lektorius.
+      Žingeidus, aktyvus, pozityvus 35 metų vyras. Vedęs ir su žmona Laura
+      auginame ketverių metų dukrytę Saulę. Šiuo metu esu individualios veiklos
+      "RJ Training" savininkas, pardavimo treneris, lektorius ir UAB "Telia
+      Lietuva" B2B treneris bei UAB "Telia Company" Europos darbo tarybos narys.
     skilties_pavadinimas: Rimvydas Jurkuvėnas
     sritis: Apie mane
   - aprasymas: >-
-      Daugiau kaip 13 metų specializuojuosi verslo aplinkoje. Per šį laikotarpį
+      Daugiau kaip 14 metų specializuojuosi verslo aplinkoje. Per šį laikotarpį
       susitikau su daugiau kaip 1500 įmonių vadovų, su kuriais praktikavausi
       pardaviminius, derybinius įgūdžius ir iš kurių sėmiausi verslumo,
       praktinės patirties apie įvairiausias veiklos sritis (mažmeninė/ didmeninė
       prekyba, transportas, statyba, informacinės technologijos, gamyba ir kt.)
       bei bendravimo ir gyvenimiškos patirties.
-    skilties_pavadinimas: 13 metų patirties versle
+    skilties_pavadinimas: 14 metų patirties versle
     sritis: Patirtis
   - aprasymas: >-
       Daugiau kaip 9 metus specializuojuosi kaip mokymų treneris, pardavimų,
@@ -41,16 +42,10 @@ apie:
       taip, kaip norėtum, kad elgtųsi su Tavimi.
     skilties_pavadinimas: Žingeidus
     sritis: Žingeidumas
-  - aprasymas: >-
-      Pardavimai/ Stresas ir galimybės/ Pasitikėjimo savimi atradimas ir
-      įgalinimas/ Teigiamo požiūrio įtaka versle/ Klausinėjimo nauda ir
-      malonumas ir kt.
-    skilties_pavadinimas: Vedu sesijas temomis
-    sritis: Kompetencijos
   - aprasymas: >
       Įmonės, kurių darbuotojams vedžiau mokymus: OMNITEL, LINTEL, ELEKTROMARKT,
       TOPOCENTRAS, TEO, LR PREZIDENTŪRA, VILNIAUS ORO UOSTAS, BARCLAYS, TELIA,
-      LIETUVOS PAŠTAS ir kt.
+      LIETUVOS PAŠTAS, ŽALGIRIO KREPŠINIO CENTRAS, NORKADA ir kt.
 
       Skaičiau pranešimus švietimo bendruomenei apie "Z kartą" bei "XXI a.
       mokykla. Mokymasis tiriant". Ugdžiau jaunuosius lyderius kartu su kitais
