@@ -6,8 +6,10 @@ layout: mokymai.pug
 mok_budas: Gyvai
 trukme: '8'
 dalyviai: '20'
-kaina: '119'
+kaina: '117'
 ---
+**Apie sesiją:**
+
 Pasitikėjimas savimi - teigiamos emocijos ir beribės galimybės.
 
 Sesijos metu suteiksiu galimybę realioje erdvėje susidurti su situacijomis, kurios leis kiekvienam dalyviui pajausti esančias organizmo reakcijas, kurias išmoks valdyti bei panaudoti pasitikėjimo stiprinimui.<!--more-->
