@@ -4,7 +4,7 @@ sritis: Viešas kalbėjimas
 title: Stresas = Galimybės + Savivertė
 layout: mokymai.pug
 mok_budas: Gyvai
-trukme: 3 val.
+trukme: '3'
 dalyviai: '30'
 kaina: '67'
 ---
