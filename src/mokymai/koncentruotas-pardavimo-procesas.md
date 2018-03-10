@@ -8,8 +8,6 @@ trukme: '8'
 dalyviai: '15'
 kaina: '157'
 ---
-**Apie sesiją:**
-
 Pardavimo procesas - malonumas su didele emocine ir finansine grąžomis, kurį išmokus kitaip nepavadinsi.
 
 Esu pardavimo sekų autorius ir praktikas (bendraujant su klientais "akis į akį" ir telefonu). Mano kelionė prasidėjo prieš 14 metų. Pirmi metai buvo pilni streso, nepagrįstų baimių, neaiškių veiksmų, nes nieko nesupratau apie pardavimus. Perversmas įvyko po kelių metų, kada po aktyvių mokymų, papildomo savarankiško studijavimo, sėkmingų didelių, vidutinių ir mažų pardavimų, galėjau aiškiai paaiškinti žodžiais, kaip tai vyksta ir veiksmais, realių susitikimų su klientais metu, patvirtinti tiesas, kurias SĄMONINGAI taikydamas pasiekiu norimą rezultatą.<!--more--> Dar po poros metų tapau B2B/ B2C pardavimų treneriu ir pradėjau mokyti pardavimo meno įvairiausių įmonių naujus ir esamus darbuotojus. Tai jau darau pastaruosius 9 metus. Su pirmaisiais sėkmingais pardavimais prasidėjo malonumas, kuris tęsiasi iki šiol.
