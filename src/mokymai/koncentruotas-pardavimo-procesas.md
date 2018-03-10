@@ -4,7 +4,7 @@ sritis: Pardavimai
 title: Sąmoninga pardavimo seka
 layout: mokymai.pug
 mok_budas: Gyvai
-trukme: 8 val.
+trukme: '8'
 dalyviai: '15'
 kaina: '157'
 ---
