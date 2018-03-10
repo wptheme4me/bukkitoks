@@ -7,14 +7,12 @@ mok_budas: Gyvai
 antras_lektorius: Romualdas Mačiulis
 trukme: '9'
 dalyviai: '30'
-kaina: '250'
+kaina: '247'
 video: >-
   <iframe width="480" height="270"
   src="https://www.youtube.com/embed/A2Tz4EWMVYQ" frameborder="0"
   allow="autoplay; encrypted-media" allowfullscreen></iframe>
 ---
-**Apie sesiją:**
-
 Vertybės – tai kompasas, kuris nurodo kryptį, kaip norime gyventi, kokią ateitį turėti, kokioje aplinkoje augti. Bendraujant su tūkstančiais žmonių, nuo jauniausio iki vyriausio, pastebėjau, kad retas, kuris vadovaujasi konkrečiomis vertybėmis. Dažniausiai tai būna gyvenimo subrandinti ar išbandymų sukrėsti žmonės. Retas susimąsto apie vertybių vertę jų gyvenimo kokybei, kryptingam tikslų siekimui tačiau, kai tai atranda, prasideda nauja pradžia.<!--more-->
 
 Todėl ši mokymų sesija naudinga didžiajai žmonių masei.
