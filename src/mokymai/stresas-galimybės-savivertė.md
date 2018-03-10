@@ -15,8 +15,8 @@ Jei Tau tenka išstoti prieš auditoriją, įgūdžiai įgyti sesijoje pasitarna
 
 **Sesijos tikslas:**
 
-susidurti su stresu ir išmokti jį suvaldyti bei pamatyti teigiamas galimybes, kurias jis sukuria.
+Susidurti su stresu ir išmokti jį suvaldyti bei pamatyti teigiamas galimybes, kurias jis sukuria.
 
 **Sesija skirta:**
 
-asmeniniam tobulėjimui.
+Kiekvienam, kuriam tenka išstoti prieš kelių ar keliasdešimties žmonių auditoriją.
