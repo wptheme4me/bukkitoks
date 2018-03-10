@@ -15,7 +15,7 @@ video: >-
 ---
 **Apie sesiją:**
 
-Vertybės – tai kompasas, kuris nurodo kryptį, kaip norime gyventi, kokią ateitį turėti, kokioje aplinkoje augti. Bendraujant su tūkstančiais žmonių, nuo jauniausio iki vyriausio, pastebėjau, kad retas, kuris vadovaujasi konkrečiomis vertybėmis. Dažniausiai tai būna gyvenimo subrandinti ar išbandymų sukrėsti žmonės. Retas susimąsto apie vertybių vertę jų gyvenimo kokybei, kryptingam tikslų siekimui tačiau, kai tai atranda, prasideda nauja pradžia.
+Vertybės – tai kompasas, kuris nurodo kryptį, kaip norime gyventi, kokią ateitį turėti, kokioje aplinkoje augti. Bendraujant su tūkstančiais žmonių, nuo jauniausio iki vyriausio, pastebėjau, kad retas, kuris vadovaujasi konkrečiomis vertybėmis. Dažniausiai tai būna gyvenimo subrandinti ar išbandymų sukrėsti žmonės. Retas susimąsto apie vertybių vertę jų gyvenimo kokybei, kryptingam tikslų siekimui tačiau, kai tai atranda, prasideda nauja pradžia.<!--more-->
 
 Todėl ši mokymų sesija naudinga didžiajai žmonių masei.
 
