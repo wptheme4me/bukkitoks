@@ -1,7 +1,7 @@
 ---
 eiliskumas: '1'
 sritis: Pardavimai
-title: Sąmoninga pardavimo seka
+title: Sąmoningas pardavimas
 layout: mokymai.pug
 mok_budas: Gyvai
 trukme: '8'
