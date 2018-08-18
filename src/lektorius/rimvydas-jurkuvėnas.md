@@ -5,9 +5,9 @@ layout: lektorius.pug
 apie:
   - aprasymas: >-
       Žingeidus, aktyvus, pozityvus 35 metų vyras. Vedęs ir su žmona Laura
-      auginame ketverių metų dukrytę Saulę. Šiuo metu esu individualios veiklos
-      "RJ Training" savininkas, pardavimo treneris, lektorius ir UAB "Telia
-      Lietuva" B2B treneris bei UAB "Telia Company" Europos darbo tarybos narys.
+      auginame ketverių metų dukrytę Saulę. Šiuo metu esu MB "Būk Kitoks"
+      savininkas, pardavimo treneris, lektorius ir UAB "Telia Lietuva" B2B
+      treneris bei UAB "Telia Company" Europos darbo tarybos narys.
     skilties_pavadinimas: Rimvydas Jurkuvėnas
     sritis: Apie mane
   - aprasymas: >-
