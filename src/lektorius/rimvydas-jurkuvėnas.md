@@ -4,8 +4,8 @@ photo: /img/uploads/lektorius-rimvydas-jurkuvenas.png
 layout: lektorius.pug
 apie:
   - aprasymas: >-
-      Žingeidus, aktyvus, pozityvus 35 metų vyras. Vedęs ir su žmona Laura
-      auginame ketverių metų dukrytę Saulę. Šiuo metu esu MB "Būk Kitoks"
+      Esu žingeidus, aktyvus, besišypsantis 35 metų vyras. Vedęs ir su žmona
+      Laura auginame ketverių metų dukrytę Saulę. Šiuo metu esu MB "Būk Kitoks"
       savininkas, pardavimo treneris, lektorius ir UAB "Telia Lietuva" B2B
       treneris bei UAB "Telia Company" Europos darbo tarybos narys.
     skilties_pavadinimas: Rimvydas Jurkuvėnas
@@ -66,9 +66,6 @@ apie:
     skilties_pavadinimas: Patikimas
     sritis: Patikimumas
   - aprasymas: >-
-      Dalinuosi nuoširdžiais atsiliepimais iš mokymų užsakovų/ dalyvių:
-
-
       Bendradarbiavome su Rimvydu "Rezultatyvaus pardavimo" mokymuose pardavimų
       vadybininkų komandai. Tai buvo sklandi, nuoširdi ir taikliai įmonės
       veiklos aktualijas atspindinti kelionė. Rimvydas skyrė daug dėmesio
@@ -88,28 +85,7 @@ apie:
       užsifiksavo, patarimai praktikoje - pasiteisino, drąsiai rekomenduoju :)
 
 
-      Raimondas Laurelis, Ecofleet Lietuva pardavimų vadovas
-
-
-      Tai ne liaupsės – iš širdies...
-
-      Esu turėjęs nemažą mokymų – tačiau po jūsų mokymų supratau, kad tai tebuvo
-      tik tam tikrų pardavimų teorijų ir technikų išdėstymai. Esu sužavėtas jūsų
-      įsitraukimu į mokymo procesą, atidumu, įsiklausimu, įžvalgomis, bei
-      fantastiška atmosfera ir nuotaika (čia naturaliai išsprūsta "wow!!!"),
-      kurią sukuriate aplink save. Tam turite talentą ir vargu ar to galima
-      išmokti. Sugebate motyvuoti savo mokinius – vien žinios be motyvacijos
-      norimo rezultato neduos. Esate šimtaprocentinis pozityvo ir optimizmo
-      įskiepis savo mokiniams – tai leidžia sukurti pilnavertį bendravimo ir
-      žinių perdavimo kanalą. Tikrai tęsčiau ir tęsčiau, nes esate vertas visų
-      geriausių mokytojo – trenerio savybių nominacijų ir jei reikėtų rinktis
-      asmeninį pardavimų trenerį ar su kuo eiti į žvalgybą – nė akimirkos
-      nedvejočiau dėl Jūsų!!!
-
-      Lauksiu kitų pasimatymų – mokymų su Jumis ☺
-
-
-      Dainius Kerevičius, Ecofleet Lietuva projektų vadovas
+      Raimondas Laurelis, "Ecofleet Lietuva" pardavimų vadovas
     skilties_pavadinimas: Atsiliepimai
     sritis: Atsiliepimai
 ---
