@@ -77,7 +77,6 @@ apie:
       užtvirtino, kas iš tiesų rūpi klientams (pasirodo jiems reikia tiek
       nedaug:).
 
-      |
 
       Rimvydas yra labai pozityvus ir tai motyvuoja aplinkinius - džiaugiausi ir
       didžiavausi savo pardavėjų komanda, matydamas jų įsitraukimą ir
@@ -86,7 +85,6 @@ apie:
       atmosferoje žinios "limpa" geriausiai. Rimvydas - įtikino, mokymai -
       užsifiksavo, patarimai praktikoje - pasiteisino, drąsiai rekomenduoju :)
 
-      |
 
       Raimondas Laurelis, "Ecofleet Lietuva" pardavimų vadovas
     skilties_pavadinimas: Atsiliepimai
