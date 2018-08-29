@@ -44,7 +44,7 @@ collections:
         fields:
           - {label: "Skilties pavadinimas", name: "skilties_pavadinimas", widget: "string"}
           - {label: "Sritis", name: "sritis", widget: "string"}
-          - {label: "Skilties aprašymas", name: "aprasymas", widget: "markdown"}
+          - {label: "Skilties aprašymas", name: "aprasymas", widget: "text"}
   - name: "renginys" # Used in routes, e.g., /admin/collections/blog
     label: "Artimiausi seminarai, mokymai" # Used in the UI
     folder: "src/seminaras" # The path to the folder where the documents are stored
