@@ -42,24 +42,25 @@ apie:
       taip, kaip norėtum, kad elgtųsi su Tavimi.
     skilties_pavadinimas: Žingeidus
     sritis: Žingeidumas
-  - aprasymas: >
-      Įmonės, kurių darbuotojams vedžiau mokymus: OMNITEL, LINTEL, ELEKTROMARKT,
-      TOPOCENTRAS, TEO, LR PREZIDENTŪRA, VILNIAUS ORO UOSTAS, BARCLAYS, TELIA,
-      LIETUVOS PAŠTAS, ŽALGIRIO KREPŠINIO CENTRAS, NORKADA ir kt.
+  - aprasymas: >-
+      <p>Įmonės, kurių darbuotojams vedžiau mokymus: OMNITEL, LINTEL,
+      ELEKTROMARKT, TOPOCENTRAS, TEO, LR PREZIDENTŪRA, VILNIAUS ORO UOSTAS,
+      BARCLAYS, TELIA, LIETUVOS PAŠTAS, ŽALGIRIO KREPŠINIO CENTRAS, NORKADA ir
+      kt.</p>
 
-      Skaičiau pranešimus švietimo bendruomenei apie "Z kartą" bei "XXI a.
+      <p>Skaičiau pranešimus švietimo bendruomenei apie "Z kartą" bei "XXI a.
       mokykla. Mokymasis tiriant". Ugdžiau jaunuosius lyderius kartu su kitais
       garsiais Lietuvos treneriais sveikintinoje iniciatyvoje "Lyderių
-      inkubatorius".
+      inkubatorius".<p/>
 
-      Bendraudamas su skirtingais žmonėmis, t.y. nuo jauniausių (mokyklinio
+      <p>Bendraudamas su skirtingais žmonėmis, t.y. nuo jauniausių (mokyklinio
       amžiaus) iki vyriausių (pensijinio amžiaus), nuo socialiai remtinų
       (valstybės išlaikomų) iki turtingiausių Lietuvos verslininkų, nuo
       išsilavinimo neturinčių (vidurinės nebaigusių pilnamečių, įkalinimo
       įstaigose uždarytų) iki profesoriaus laipsnį turinčių asmenų, pastebėjau,
       kad visi jie turi skirtingą požiūrį į gyvenimą, visi remiasi skirtingomis
       asmeninėmis vertybėmis, dėl ko pasiekia vienokios ar kitokios sėkmės ar
-      patiria nesėkmę gyvenimo kely.
+      patiria nesėkmę gyvenimo kely.</p>
 
       Žinau, kad noriu ir galiu padėti kitiems dalindamasis turima patirtimi,
       padėti tiems, kuriems labiausiai šiuo metu manęs reikia.
