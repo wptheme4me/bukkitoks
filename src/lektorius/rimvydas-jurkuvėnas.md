@@ -66,16 +66,16 @@ apie:
     skilties_pavadinimas: Patikimas
     sritis: Patikimumas
   - aprasymas: >-
-      Bendradarbiavome su Rimvydu "Rezultatyvaus pardavimo" mokymuose pardavimų
-      vadybininkų komandai. Tai buvo sklandi, nuoširdi ir taikliai įmonės
-      veiklos aktualijas atspindinti kelionė. Rimvydas skyrė daug dėmesio
+      <p>Bendradarbiavome su Rimvydu "Rezultatyvaus pardavimo" mokymuose
+      pardavimų vadybininkų komandai. Tai buvo sklandi, nuoširdi ir taikliai
+      įmonės veiklos aktualijas atspindinti kelionė. Rimvydas skyrė daug dėmesio
       susipažinti su aplinka įmonėje ir suprasti darbuotojų asmenybes. Jaučiau,
       kokį betarpišką ir šiltą kontaktą jis sugebėjo užmegzti su kiekvienu
       komandos nariu. Mokymų programa buvo paruošta tikslingai ir padėjo bendrom
       jėgom išgryninti aiškų rezultatyvaus pardavimo procesą ir scenarijų.
       Tęstiniai bendri susitikimai su klientais po mokymų įtvirtino medžiagą ir
       užtvirtino, kas iš tiesų rūpi klientams (pasirodo jiems reikia tiek
-      nedaug:).<br/>
+      nedaug:).<p/>
 
       <p>
 
