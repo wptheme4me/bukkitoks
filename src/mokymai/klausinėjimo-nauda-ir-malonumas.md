@@ -6,7 +6,7 @@ layout: mokymai.pug
 mok_budas: Gyvai/ Internetu
 trukme: '3'
 dalyviai: '15'
-kaina: '67'
+kaina: '77'
 ---
 Yra labai daug žmonių, kurie kalba minimaliai, ypatingai, kai vyksta derybinis ar pardaviminis procesas. Dažnu atveju, žmonių atviram išsikalbėjimui, įtaką daro tas, kuris užduoda klausimus. Tačiau, dažnam tai yra iššūkis. Viskas priklauso tik nuo žmogaus pastangų ir noro tai daryti.
 
