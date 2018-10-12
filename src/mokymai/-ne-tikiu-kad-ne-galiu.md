@@ -5,8 +5,8 @@ title: 'Tikiu, kad GALIU!'
 layout: mokymai.pug
 mok_budas: Gyvai
 trukme: '8'
-dalyviai: '20'
-kaina: '117'
+dalyviai: '15'
+kaina: '127'
 ---
 Pasitikėjimas savimi - teigiamos emocijos ir beribės galimybės.
 
