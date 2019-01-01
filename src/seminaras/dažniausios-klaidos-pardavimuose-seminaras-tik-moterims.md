@@ -1,10 +1,10 @@
 ---
 aktyvus: true
-title: Dažniausios klaidos pardavimuose - seminaras tik moterims
+title: Dažniausios klaidos pardavimuose
 fonas: SEMINARAS
 renginys_skirtas: >-
-  Tik moterims, kurios kasdien parduoda savo įmonės produktus ar dar tik nori to
-  išmokti
+  Seminaras skirtas  tik moterims, kurios kasdien parduoda savo atstovaujamos
+  įmonės produktus ar dar tik nori to išmokti
 photo: /img/uploads/lektorius-rimvydas-jurkuvenas.png
 renginio_data: '2019-01-15'
 renginio_laikas: '18:30-20.30'
