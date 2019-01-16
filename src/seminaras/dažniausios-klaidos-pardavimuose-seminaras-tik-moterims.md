@@ -1,5 +1,5 @@
 ---
-aktyvus: true
+aktyvus: false
 title: Dažniausios klaidos pardavimuose
 fonas: SEMINARAS
 renginys_skirtas: SEMINARAS SKIRTAS TIK MOTERIMS
