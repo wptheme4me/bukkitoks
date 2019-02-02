@@ -20,11 +20,11 @@ apie:
     skilties_pavadinimas: 14 metų patirties versle
     sritis: Patirtis
   - aprasymas: >-
-      Daugiau kaip 9 metus specializuojuosi kaip mokymų treneris, pardavimų,
+      Daugiau kaip 10 metus specializuojuosi kaip mokymų treneris, pardavimų,
       aptarnavimo, nuostatų temomis. Patirties sėmiausi iš geriausių Lietuvos ir
       užsienio mokymų trenerių bei psichologų. Pravedžiau daugiau kaip 1000
       sesijų skirtingoms žmonių grupėms.
-    skilties_pavadinimas: 9 metai lektorystės
+    skilties_pavadinimas: 10 metai lektorystės
     sritis: Patirtis
   - aprasymas: >-
       Tai liudija faktas, jog esu vienas iš aktyviausių (iš daugiau kaip 1200
