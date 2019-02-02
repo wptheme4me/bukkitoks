@@ -11,13 +11,13 @@ apie:
     skilties_pavadinimas: Rimvydas Jurkuvėnas
     sritis: Apie mane
   - aprasymas: >-
-      Daugiau kaip 14 metų specializuojuosi verslo aplinkoje. Per šį laikotarpį
+      Daugiau kaip 15 metų specializuojuosi verslo aplinkoje. Per šį laikotarpį
       susitikau su daugiau kaip 1500 įmonių vadovų, su kuriais praktikavausi
       pardaviminius, derybinius įgūdžius ir iš kurių sėmiausi verslumo,
       praktinės patirties apie įvairiausias veiklos sritis (mažmeninė/ didmeninė
       prekyba, transportas, statyba, informacinės technologijos, gamyba ir kt.)
       bei bendravimo ir gyvenimiškos patirties.
-    skilties_pavadinimas: 14 metų patirties versle
+    skilties_pavadinimas: 15 metų patirties versle
     sritis: Patirtis
   - aprasymas: >-
       Daugiau kaip 10 metus specializuojuosi kaip mokymų treneris, pardavimų,
