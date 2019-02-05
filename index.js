@@ -12,7 +12,7 @@ Metalsmith(__dirname)
     siteurl: 'https://www.bukkitoks.lt/',
     // siteurl: 'http://localhost:3000/',
     description: 'It\'s about saying »Hello« to the world.',
-    phone: '+370 620 60 620',
+    phone: '+370 620 10 620',
     email: 'rimvydas@bukkitoks.lt'
   })
   .source('src')
