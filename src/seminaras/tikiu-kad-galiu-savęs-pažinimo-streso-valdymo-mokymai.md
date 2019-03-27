@@ -7,7 +7,7 @@ video: ''
 photo: /img/uploads/rj_pagr.jpg
 renginio_data: '2019-04-15'
 renginio_laikas: '09:00-17:00'
-renginio_vieta: 'ARTIS Centrum Hotels, Totorių gatvė, Vilnius, Lietuva'
+renginio_vieta: 'ARTIS Centrum Hotels, Totorių g. 23, Vilnius'
 renginio_vietos_map: ''
 renginio_kaina: '230'
 paysera_bilietai: >-
