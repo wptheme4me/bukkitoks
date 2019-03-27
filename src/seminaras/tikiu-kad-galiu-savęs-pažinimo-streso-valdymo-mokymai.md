@@ -1,8 +1,8 @@
 ---
 aktyvus: true
-title: 'TIKIU, KAD GALIU! savęs pažinimo, streso valdymo mokymai'
+title: 'TIKIU, KAD GALIU! savęs pažinimas, streso valdymas'
 fonas: ARTIMIAUSI
-renginys_skirtas: Dalyvių skaičius ribotas - tik 9
+renginys_skirtas: ATVIRI MOKYMAI
 video: ''
 photo: /img/uploads/rj_pagr.jpg
 renginio_data: '2019-04-15'
