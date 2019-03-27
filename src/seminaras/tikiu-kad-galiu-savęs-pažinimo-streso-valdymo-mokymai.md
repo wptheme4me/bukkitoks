@@ -1,9 +1,9 @@
 ---
 aktyvus: true
-title: 'TIKIU, KAD GALIU! SAVĘS PAŽINIMO, STRESO VALDYMO MOKYMAI'
-fonas: ATVIRI MOKYMAI
+title: 'TIKIU, KAD GALIU! Savęs pažinimo, streso valdymo mokymai'
+fonas: MOKYMAI
 renginys_skirtas: VYRAMS IR MOTERIMS
-video: 'https://youtu.be/yIhW43B7ToM'
+video: ''
 photo: /img/uploads/rj_pagr.jpg
 renginio_data: '2019-04-15'
 renginio_laikas: '09:00-17:00'
