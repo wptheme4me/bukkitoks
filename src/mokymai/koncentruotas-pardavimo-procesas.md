@@ -6,7 +6,7 @@ layout: mokymai.pug
 mok_budas: Gyvai
 trukme: '8'
 dalyviai: '15'
-kaina: '157'
+kaina: '167'
 video: >-
   <iframe width="854" height="480"
   src="https://www.youtube.com/embed/tniomFBrtQo" frameborder="0"
