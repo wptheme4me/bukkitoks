@@ -1,5 +1,5 @@
 ---
-aktyvus: true
+aktyvus: false
 title: 'TIKIU, KAD GALIU! savęs pažinimas, streso valdymas'
 fonas: ARTIMIAUSI
 renginys_skirtas: ATVIRI MOKYMAI
