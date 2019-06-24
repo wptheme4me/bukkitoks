@@ -1,12 +1,12 @@
 ---
 eiliskumas: '3'
-sritis: Viešas kalbėjimas
+sritis: Streso valdymas | Savimotyvacija
 title: 'Tikiu, kad GALIU!'
 layout: mokymai.pug
 mok_budas: Gyvai
 trukme: '8'
 dalyviai: '9'
-kaina: '230'
+kaina: '177'
 ---
 Pasitikėjimas savimi - teigiamos emocijos ir beribės galimybės.
 
