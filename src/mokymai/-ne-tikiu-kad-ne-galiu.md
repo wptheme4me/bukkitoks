@@ -1,5 +1,5 @@
 ---
-eiliskumas: '3'
+eiliskumas: '2'
 sritis: Streso valdymas | Savimotyvacija
 title: 'Tikiu, kad GALIU!'
 layout: mokymai.pug
