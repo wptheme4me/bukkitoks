@@ -4,7 +4,7 @@ sritis: Pardavimai
 title: Sąmoningas pardavimas
 layout: mokymai.pug
 mok_budas: Gyvai
-trukme: 9 ak.
+trukme: '8'
 dalyviai: '15'
 kaina: '167'
 video: ''
