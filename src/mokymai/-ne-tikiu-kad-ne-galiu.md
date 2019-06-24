@@ -4,7 +4,7 @@ sritis: Streso valdymas | Savimotyvacija
 title: 'Tikiu, kad GALIU!'
 layout: mokymai.pug
 mok_budas: Gyvai
-trukme: '8'
+trukme: '8 '
 dalyviai: '9'
 kaina: '177'
 ---
