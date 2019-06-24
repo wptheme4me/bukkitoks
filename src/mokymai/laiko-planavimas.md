@@ -4,7 +4,7 @@ sritis: Laiko planavimas
 title: Laiko planavimas
 layout: mokymai.pug
 mok_budas: Gyvai
-trukme: 9 ak. val.
+trukme: 9 ak.
 dalyviai: '12'
 kaina: '157'
 ---
