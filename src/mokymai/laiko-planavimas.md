@@ -6,7 +6,7 @@ layout: mokymai.pug
 mok_budas: Gyvai
 trukme: '8'
 dalyviai: '12'
-kaina: '157'
+kaina: '147'
 ---
 Jei darbų kiekis yra toks, kad sunku jį visą aprėpti, suvaldyti ir Tavo laiką valdo kiti, bet ne Tu pats, tuomet laiko planavimo sesija kaip tik Tau skirta.
 
