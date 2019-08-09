@@ -6,7 +6,7 @@ layout: mokymai.pug
 mok_budas: Gyvai
 trukme: '8'
 dalyviai: '15'
-kaina: '167'
+kaina: '157'
 video: ''
 ---
 Pardavimo procesas - malonumas su didele emocine ir finansine grąžomis, kurį išmokus kitaip nepavadinsi.
