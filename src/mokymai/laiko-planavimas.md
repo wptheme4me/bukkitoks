@@ -30,7 +30,7 @@ Išmokyti susiplanuoti visus savo veiksmus: skambučius, el. laiškus, susitikim
 
 Pasipraktikuoti deleguoti užduotis ir sekti jų statusą;
 
-Išmokyti įsivertinti realų savąjį užimtumą, prisiimti darbų tiek, kiek leidžia laiko resursas ir argumentuotai tai pagrįsti esant papildomam darbų poreikiui;
+Išmokyti įsivertinti realų savąjį užimtumą, prisiimti darbų tiek, kiek leidžia laiko resursas ir argumentuotai tai pagrįsti esant papildomam darbų poreikiui.
 
 **Sesijos turinys:**
 
