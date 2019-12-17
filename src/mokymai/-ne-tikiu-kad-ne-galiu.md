@@ -20,7 +20,7 @@ kaina: '157'
 * Dirbdamas (-a) jaučiu įtampą;
 * Stresuoju darbo aplinkoje.
 
-**Sesijos tikslas: **
+**Sesijos tikslas: <!--more-->**
 
 Sukurti žmonėms terpę išsakyti savuosius sunkumus, bendrai rasti sprendimus, apsibrėžti veiksmus ir pakelti savąjį emocinį intelektą/ suvokimą į aukštesnį lygį.
 
