@@ -49,7 +49,7 @@ apie:
       metus.
 
       <p>Reguliariai lankausi įvairiausiuose seminaruose ir keliu savo
-      kompetenciją, kitų, patyrusių, lektorių dėka.<p>
+      kompetenciją, kitų, patyrusių, lektorių dėka.
 
       <p>Vadovaujuosi taisykle: "Elkis su kitais taip, kaip norėtum, kad elgtųsi
       su Tavimi".
@@ -86,9 +86,7 @@ apie:
       jėgom išgryninti aiškų rezultatyvaus pardavimo procesą ir scenarijų.
       Tęstiniai bendri susitikimai su klientais po mokymų įtvirtino medžiagą ir
       užtvirtino, kas iš tiesų rūpi klientams (pasirodo jiems reikia tiek
-      nedaug) :)
-
-      <p/>Rimvydas yra labai pozityvus ir tai motyvuoja aplinkinius -
+      nedaug) :)<p/>Rimvydas yra labai pozityvus ir tai motyvuoja aplinkinius -
       džiaugiausi ir didžiavausi savo pardavėjų komanda, matydamas jų
       įsitraukimą ir žingeidumą. Patirtis su Rimvydu - tai atviras pasidalinimas
       žiniomis, kur negalioja formalūs barjerai, o emocijos nesuvaidintos -
