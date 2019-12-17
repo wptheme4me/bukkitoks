@@ -26,8 +26,6 @@ Sukurti žmonėms terpę išsakyti savuosius sunkumus, bendrai rasti sprendimus,
 
 **Trumpai apie mane:**
 
-![](/img/uploads/rj_pagr.jpg)
-
 Pardavimo treneris, lektorius, praktikas;
 
 10+ metų aktyviai ugdau pardavimo įgūdžius, aptarnavimą, motyvaciją;
@@ -40,7 +38,7 @@ Pardavimo treneris, lektorius, praktikas;
 
 Esu autorius pokalbių scenarijų šaltiems/ šiltiems skambučiams bei pardavimo sekų, kuriomis vadovaujasi didžiausios įmonės Lietuvoje.
 
-**Vertybės:**
+**Vertybės:**
 
 Gerbti | Suprasti | Būti dėkingam
 
