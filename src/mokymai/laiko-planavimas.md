@@ -8,22 +8,44 @@ trukme: '8'
 dalyviai: '12'
 kaina: '147'
 ---
-Jei darbų kiekis yra toks, kad sunku jį visą aprėpti, suvaldyti ir Tavo laiką valdo kiti, bet ne Tu pats, tuomet laiko planavimo sesija kaip tik Tau skirta.
+**Kylantys sunkumai neplanuojant laiko:**
+
+Nuolatinės klaidos, darbų dubliavimasis
+
+Sumažėjęs darbo efektyvumas
+
+Koncentracijos stoka
+
+Konfliktai su kolegomis, klientais, vadovais
+
+Nusivylimas kasdieniu darbu/ Asmeninio pasitenkinimo mažėjimas
+
+Įtampa darbo vietoje/ Stresas, nemiga
+
+Darbo ir asmeninio gyvenimo disbalansas
+
+Sąmišis prioritetuose/ Chaotiškas darbas
+
+Gėda prieš vadovus/ klientus
+
+Įmonės/ komandos rezultatų mažėjimas
+
+Pamiršti darbai, susitikimai, pažadai
 
 **Sesijos tikslas:**
 
-Suprasti laiko planavimosi naudą/ nesiplanavimo žalą sau asmeniškai 
+Išaiškinti laiko planavimosi naudą/ nesiplanavimo žalą kiekvienam asmeniškai;
 
-Gebėti susiplanuoti visus savo veiksmus užduočių modulyje: skambučius, el. laiškus, susitikimus, darbą biure ar kitus atliekamus veiksmus;
+Išmokyti susiplanuoti visus savo veiksmus: skambučius, el. laiškus, susitikimus, darbą biure bei aiškiai apsibrėžti prioritetus;
 
-Gebėti susiplanuoti visus savo veiksmus/ užduotis kalendoriuje kelias savaites/ mėnesį į priekį
+Pasipraktikuoti deleguoti užduotis ir sekti jų statusą;
 
-Gebėti deleguoti užduotis ir sekti jų statusą
+Išmokyti įsivertinti realų savąjį užimtumą, prisiimti darbų tiek, kiek leidžia laiko resursas ir argumentuotai tai pagrįsti esant papildomam darbų poreikiui;
 
-Gebėti įsivertinti realų savąjį užimtumą, prisiimti darbų tiek, kiek leidžia laiko resursas ir argumentuotai tai pagrįsti esant papildomam darbų poreikiui
+**Sesijos turinys:**
 
-Svarbiausia, įgusti skrupulingai planuotis savo laiką, kad naktimis ramiai miegotųsi ir numatyti veiksmai būtų atliekami be žalingo streso, laiku.
+25% - teorija, 75% - praktika - įpročio formavimas
 
 **Sesija skirta:**
 
-Dirbantiems su klientais, valdantiems didelius informacijos srautus ir norintiems skrupulingai valdyti savo laiką bei turėti darbo ir laisvalaikio balansą.
+Valdantiems didelius informacijos srautus ir norintiems skrupulingai valdyti savo laiką bei turėti darbo ir laisvalaikio/ asmeninio gyvenimo balansą.
