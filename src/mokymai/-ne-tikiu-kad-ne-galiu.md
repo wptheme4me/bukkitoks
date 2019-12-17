@@ -1,23 +1,49 @@
 ---
 eiliskumas: '3'
-sritis: Streso valdymas | Savimotyvacija
-title: 'Tikiu, kad GALIU!'
+sritis: Savimotyvacija | Emocinis intelektas
+title: Sąmoningas ir efektyvus tarpusavio komunikavimas
 layout: mokymai.pug
 mok_budas: Gyvai
 trukme: '8'
-dalyviai: '9'
-kaina: '167'
+dalyviai: '15'
+kaina: '157'
 ---
-Pasitikėjimas savimi - teigiamos emocijos ir beribės galimybės.
+**Kylantys sunkumai tarpusavio komunikacijoje:**
 
-Sesijos metu suteiksiu galimybę realioje erdvėje susidurti su situacijomis, kurios leis kiekvienam dalyviui pajausti esančias organizmo reakcijas, išmokti jas suvaldyti bei panaudoti pasitikėjimo stiprinimui.<!--more-->
-
-Didelė žmonių dalis bijo išeiti prieš auditoriją, bijo pasisakyti viešai, bijo galimų netikėtumų, tad ši sesija leis susidurti su realiomis, bet, dažnu atveju, nepagrįstomis baimėmis, suprasti to priežastis ir pamatyti viso to gaunamą rezultatą. Praktika leis įgyti įgūdžius, kurių dėka drąsiau žengsite žingsnį turimų baimių bei galimybių link.
+* Sunku suprasti vienas kitą;
+* Daugelis vadovaujasi prielaidomis;
+* Nenoriai priimamas naujas komandos narys;
+* Vyksta nesusikalbėjimas ir pykčiai;
+* Sudėtingas santykis su vadovais;
+* Nedrąsų kalbėti su vadovu;
+* Nežinau, kaip pradėti pokalbį su vadovu;
+* Dirbdamas (-a) jaučiu įtampą;
+* Stresuoju darbo aplinkoje.
 
 **Sesijos tikslas: **
 
-Sukurti žmonėms terpę, kurioje galėtų, pratimų dėka, sužadinti savyje pasitikėjimą, išmokti suvaldyti stresą ir artimiausiu metu, nuo rytojaus, susidurti su naujomis galimybėmis, leidžiančiomis išnaudoti įgytas žinias.
+Sukurti žmonėms terpę išsakyti savuosius sunkumus, bendrai rasti sprendimus, apsibrėžti veiksmus ir pakelti savąjį emocinį intelektą/ suvokimą į aukštesnį lygį.
 
-**Sesija skirta: **
+**Trumpai apie mane:**
 
-Individualiam ar grupiniam tobulėjimui, pasitikėjimo savimi stiprinimui.
+![](/img/uploads/rj_pagr.jpg)
+
+Pardavimo treneris, lektorius, praktikas;
+
+10+ metų aktyviai ugdau pardavimo įgūdžius, aptarnavimą, motyvaciją;
+
+1000+ pravedęs mokymų sesijų;
+
+1500+ dalyvavęs susitikimuose su skirtingų veiklų įmonių vadovais ir vykdęs pardavimus/ derybas;
+
+3000+ išanalizavęs pokalbių telefonu ir pateikęs pardavėjams/ vadovams individualų grįžtamąjį ryšį;
+
+Esu autorius pokalbių scenarijų šaltiems/ šiltiems skambučiams bei pardavimo sekų, kuriomis vadovaujasi didžiausios įmonės Lietuvoje.
+
+**Vertybės:**
+
+Gerbti | Suprasti | Būti dėkingam
+
+**Mano ugdyti darbuotojai įmonėse:**
+
+Telia, Senukai, Agrochema, Lietuvos geležinkeliai, Lietuvos paštas, Topo centras, JCDecaux, Bonum publicum, BC Žalgiris
