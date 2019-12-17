@@ -1,6 +1,6 @@
 ---
 eiliskumas: '2'
-sritis: Laiko planavimas
+sritis: Sąmoningas laiko planavimas
 title: Laiko planavimas
 layout: mokymai.pug
 mok_budas: Gyvai
@@ -26,4 +26,4 @@ Svarbiausia, įgusti skrupulingai planuotis savo laiką, kad naktimis ramiai mie
 
 **Sesija skirta:**
 
-Dirbantiems su klientais ir norintiems skrupulingai valdyti savo laiką bei turėti darbo ir laisvalaikio balansą.
+Dirbantiems su klientais, valdantiems didelius informacijos srautus ir norintiems skrupulingai valdyti savo laiką bei turėti darbo ir laisvalaikio balansą.
