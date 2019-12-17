@@ -8,7 +8,7 @@ trukme: '8'
 dalyviai: '15'
 kaina: '137'
 ---
-**Kylantys sunkumai tarpusavio komunikacijoje:**
+**Kylantys sunkumai tarpusavio komunikacijoje: <!--more-->**
 
 * Sunku suprasti vienas kitą;
 * Daugelis vadovaujasi prielaidomis;
@@ -18,17 +18,15 @@ kaina: '137'
 * Nedrąsų kalbėti su vadovu;
 * Nežinau, kaip pradėti pokalbį su vadovu;
 * Dirbdamas (-a) jaučiu įtampą;
-* Stresuoju darbo aplinkoje. <!--more-->
+* Stresuoju darbo aplinkoje.
 
 **Sesijos tikslas:**
 
 Sukurti žmonėms terpę išsakyti savuosius sunkumus, bendrai rasti sprendimus, apsibrėžti veiksmus ir pakelti savąjį emocinį intelektą/ suvokimą į aukštesnį lygį.
 
-
-
 **Trumpai apie mane:**
 
-Pardavimo treneris, lektorius, praktikas;
+Pardavimo treneris, lektorius, absoliutus praktikas;
 
 10+ metų aktyviai ugdau pardavimo įgūdžius, aptarnavimą, motyvaciją;
 
