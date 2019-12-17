@@ -45,6 +45,6 @@ Esu autorius pokalbių scenarijų šaltiems/ šiltiems skambučiams bei pardavim
 
 Gerbti | Suprasti | Būti dėkingam
 
-**Mano ugdyti darbuotojai įmonėse:**
+**Ugdyti darbuotojai įmonėse:**
 
 Telia, Senukai, Agrochema, Lietuvos geležinkeliai, Lietuvos paštas, Topo centras, JCDecaux, Bonum publicum, BC Žalgiris
