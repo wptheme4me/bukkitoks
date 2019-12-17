@@ -93,8 +93,8 @@ apie:
       žingeidumą. Patirtis su Rimvydu - tai atviras pasidalinimas žiniomis, kur
       negalioja formalūs barjerai, o emocijos nesuvaidintos - tokioje
       atmosferoje žinios "limpa" geriausiai. Rimvydas - įtikino, mokymai -
-      užsifiksavo, patarimai praktikoje - pasiteisino, drąsiai rekomenduoju
-      :)<p>
+      užsifiksavo, patarimai praktikoje - pasiteisino, drąsiai rekomenduoju :)
+      :)
 
       <p>Raimondas Laurelis, "Fleet Complete Lietuva" pardavimų vadovas.
     skilties_pavadinimas: Atsiliepimai
