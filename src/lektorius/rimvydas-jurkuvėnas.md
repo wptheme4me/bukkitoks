@@ -5,8 +5,10 @@ layout: lektorius.pug
 apie:
   - aprasymas: >-
       Esu žingeidus, aktyvus, dažniausiai besišypsantis 36 metų vyras. Vedęs. Su
-      žmona Laura auginame šešerių metų dukrytę Saulę. Esu MB "Būk Kitoks"
-      įkūrėjas, savininkas, pardavimo treneris, lektorius.
+      žmona Laura auginame šešerių metų dukrytę Saulę.
+
+      <p>Esu MB "Būk Kitoks" įkūrėjas, savininkas, pardavimo treneris,
+      lektorius.
     skilties_pavadinimas: Rimvydas Jurkuvėnas
     sritis: Apie mane
   - aprasymas: >-
@@ -34,48 +36,45 @@ apie:
       pasiekiau daugiau kaip 50 000 moksleivių ir pravedžiau jiems aktualias
       sesijas.
 
-      Šiuo metu neatlygintinai dalinuosi žiniomis su jaunimu bei finansais (5%
-      nuo pajamų) su socialiai remtinais žmonėmis.
+      <p>Šiuo metu neatlygintinai dalinuosi žiniomis su jaunimu bei finansais
+      (5% nuo pajamų) su socialiai remtinais žmonėmis.
     skilties_pavadinimas: Socialiai atsakingas
     sritis: Atsakingumas
   - aprasymas: >-
-      Domiuosi psichologija, pardavimais, naujausiomis technologijomis, skaitau
-      ir konspektuojuosi pozityvią, įkvepiančią, istorinę, intelektualią
+      <p>Domiuosi psichologija, pardavimais, naujausiomis technologijomis,
+      skaitau ir konspektuojuosi pozityvią, įkvepiančią, istorinę, intelektualią
       literatūrą. Tai darau kas rytą nuo 6h iki 7h. Rezultatas - 55 knygos per
       metus.
 
-      Reguliariai lankausi įvairiausiuose seminaruose ir keliu savo
+      <p>Reguliariai lankausi įvairiausiuose seminaruose ir keliu savo
       kompetenciją, kitų, patyrusių, lektorių dėka.
 
-      Vadovaujuosi taisykle: "Elkis su kitais taip, kaip norėtum, kad elgtųsi su
-      Tavimi".
+      <p>Vadovaujuosi taisykle: "Elkis su kitais taip, kaip norėtum, kad elgtųsi
+      su Tavimi".
     skilties_pavadinimas: Žingeidus
     sritis: Žingeidumas
   - aprasymas: >-
-      <p>Įmonės, kurių darbuotojams vedžiau mokymus: OMNITEL, LINTEL,
-      ELEKTROMARKT, TOPOCENTRAS, TEO, LR PREZIDENTŪRA, VILNIAUS ORO UOSTAS,
-      BARCLAYS, TELIA, LIETUVOS PAŠTAS, ŽALGIRIO KREPŠINIO CENTRAS, NORKADA ir
-      kt.</p>
+      <p>Įmonės, kurių darbuotojams vedžiau mokymus mano minėtomis temomis:
+      TELIA, TOPOCENTRAS, LIETUVOS PAŠTAS, ŽALGIRIO KREPŠINIO CENTRAS, SENUKAI,
+      AGROCHEMA, LIETUVOS GELEŽINKELIAI, NARBUTAS, LINDSTROM, FLEET COMPLETE,
+      SEB, JCDECAUX, BONUM PUBLICUM, SVAITA, SQUOLIO IR KITOMS.</p>
 
       <p>Skaičiau pranešimus švietimo bendruomenei apie "Z kartą" bei "XXI a.
-      mokykla. Mokymasis tiriant". Ugdžiau jaunuosius lyderius kartu su kitais
-      garsiais Lietuvos treneriais sveikintinoje iniciatyvoje "Lyderių
-      inkubatorius".<p/>
-
-      <p>Bendraudamas su skirtingais žmonėmis, t.y. nuo jauniausių (mokyklinio
-      amžiaus) iki vyriausių (pensijinio amžiaus), nuo socialiai remtinų
-      (valstybės išlaikomų) iki turtingiausių Lietuvos verslininkų, nuo
-      išsilavinimo neturinčių (vidurinės nebaigusių pilnamečių, įkalinimo
-      įstaigose uždarytų) iki profesoriaus laipsnį turinčių asmenų, pastebėjau,
-      kad visi jie turi skirtingą požiūrį į gyvenimą, visi remiasi skirtingomis
-      asmeninėmis vertybėmis, dėl ko pasiekia vienokios ar kitokios sėkmės ar
-      patiria nesėkmę gyvenimo kely.</p>
-
-      Žinau, kad noriu ir galiu padėti kitiems dalindamasis turima patirtimi,
-      padėti tiems, kuriems labiausiai šiuo metu manęs reikia.
+      mokykla. Mokymasis tiriant", verslo bendruomenei apie kibernetinį saugumą.
+      Ugdžiau jaunuosius lyderius kartu su kitais garsiais Lietuvos treneriais
+      sveikintinoje iniciatyvoje "Lyderių inkubatorius".<p/>
     skilties_pavadinimas: Patikimas
     sritis: Patikimumas
   - aprasymas: >-
+      <p>Manieji klientai kalba gyvai ir pasakydami visą tiesą apie mane ir
+      nebūtinai 100% pozityvią, tad jei turite norą išgirsti visą tiesą apie
+      mane tiesiogiai iš manųjų užsakovų lupų, tuomet informuokite ir
+      pasidalinsiu kontaktais žmonių, kurie atsakys į visus Jums rūpimus
+      klausimus.
+
+      <p>O jei pageidaujate paskaityti, kaip atsiliepia užsakovas apie mane, tai
+      štai Jums trumpas ir nuoširdus komentaras:
+
       <p>Bendradarbiavome su Rimvydu "Rezultatyvaus pardavimo" mokymuose
       pardavimų vadybininkų komandai. Tai buvo sklandi, nuoširdi ir taikliai
       įmonės veiklos aktualijas atspindinti kelionė. Rimvydas skyrė daug dėmesio
@@ -93,7 +92,7 @@ apie:
       - užsifiksavo, patarimai praktikoje - pasiteisino, drąsiai rekomenduoju
       :)</p>
 
-      Raimondas Laurelis, "Ecofleet Lietuva" pardavimų vadovas
+      Raimondas Laurelis, "Fleet Complete Lietuva" pardavimų vadovas.
     skilties_pavadinimas: Atsiliepimai
     sritis: Atsiliepimai
 ---
