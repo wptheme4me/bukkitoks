@@ -1,5 +1,5 @@
 ---
-aktyvus: true
+aktyvus: false
 title: 1000+ pravestų sesijų!
 fonas: 11 metų lektorius!
 renginys_skirtas: VERTYBĖS - GERBTI | SUPRASTI | BŪTI DĖKINGAM
