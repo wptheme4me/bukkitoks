@@ -18,7 +18,9 @@ kaina: '137'
 * Nedrąsų kalbėti su vadovu;
 * Nežinau, kaip pradėti pokalbį su vadovu;
 * Dirbdamas (-a) jaučiu įtampą;
-* Stresuoju darbo aplinkoje.
+* Stresuoju darbo aplinkoje;
+* Vyrauja žema savigarba, nepagarba vienas kitam;
+* Sunku suprasti savas emocijas, jas suvaldyti.
 
 **Sesijos tikslas:**
 
