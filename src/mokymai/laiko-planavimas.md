@@ -10,27 +10,17 @@ kaina: '147'
 ---
 **Kylantys sunkumai neplanuojant laiko:**
 
-Nuolatinės klaidos, darbų dubliavimasis
-
-Sumažėjęs darbo efektyvumas
-
-Koncentracijos stoka
-
-Konfliktai su kolegomis, klientais, vadovais
-
-Nusivylimas kasdieniu darbu/ Asmeninio pasitenkinimo mažėjimas
-
-Įtampa darbo vietoje/ Stresas, nemiga
-
-Darbo ir asmeninio gyvenimo disbalansas
-
-Sąmišis prioritetuose/ Chaotiškas darbas
-
-Gėda prieš vadovus/ klientus
-
-Įmonės/ komandos rezultatų mažėjimas
-
-Pamiršti darbai, susitikimai, pažadai
+* Nuolatinės klaidos, darbų dubliavimasis
+* Sumažėjęs darbo efektyvumas
+* Koncentracijos stoka
+* Konfliktai su kolegomis, klientais, vadovais
+* Nusivylimas kasdieniu darbu/ Asmeninio pasitenkinimo mažėjimas
+* Įtampa darbo vietoje/ Stresas, nemiga
+* Darbo ir asmeninio gyvenimo disbalansas
+* Sąmišis prioritetuose/ Chaotiškas darbas
+* Gėda prieš vadovus/ klientus
+* Įmonės/ komandos rezultatų mažėjimas
+* Pamiršti darbai, susitikimai, pažadai
 
 **Sesijos tikslas:**
 
@@ -49,3 +39,23 @@ Išmokyti įsivertinti realų savąjį užimtumą, prisiimti darbų tiek, kiek l
 **Sesija skirta:**
 
 Valdantiems didelius informacijos srautus ir norintiems skrupulingai valdyti savo laiką bei turėti darbo ir laisvalaikio/ asmeninio gyvenimo balansą.
+
+**Trumpai apie mane:**
+
+Lektorius, absoliutus praktikas;
+
+10+ metų aktyviai ugdau pardavimo įgūdžius, aptarnavimą, motyvaciją;
+
+1000+ pravedęs mokymų sesijų;
+
+1500+ dalyvavęs susitikimuose su skirtingų veiklų įmonių vadovais;
+
+3000+ išanalizavęs pokalbių telefonu.
+
+**Vertybės:**
+
+Gerbti | Suprasti | Būti dėkingam
+
+**Ugdyti darbuotojai įmonėse:**
+
+Telia, Senukai, Agrochema, Lietuvos geležinkeliai, Lietuvos paštas, Topo centras, JCDecaux, Bonum publicum, BC Žalgiris
