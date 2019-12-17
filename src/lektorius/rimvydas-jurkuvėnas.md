@@ -86,10 +86,10 @@ apie:
       jėgom išgryninti aiškų rezultatyvaus pardavimo procesą ir scenarijų.
       Tęstiniai bendri susitikimai su klientais po mokymų įtvirtino medžiagą ir
       užtvirtino, kas iš tiesų rūpi klientams (pasirodo jiems reikia tiek
-      nedaug) :) .
+      nedaug) :)
 
-      Rimvydas yra labai pozityvus ir tai motyvuoja aplinkinius - džiaugiausi ir
-      didžiavausi savo pardavėjų komanda, matydamas jų įsitraukimą ir
+      <p>Rimvydas yra labai pozityvus ir tai motyvuoja aplinkinius - džiaugiausi
+      ir didžiavausi savo pardavėjų komanda, matydamas jų įsitraukimą ir
       žingeidumą. Patirtis su Rimvydu - tai atviras pasidalinimas žiniomis, kur
       negalioja formalūs barjerai, o emocijos nesuvaidintos - tokioje
       atmosferoje žinios "limpa" geriausiai. Rimvydas - įtikino, mokymai -
