@@ -1,6 +1,6 @@
 ---
 eiliskumas: '3'
-sritis: Savimotyvacija | Emocinis intelektas
+sritis: Emocinis intelektas
 title: Sąmoningas ir efektyvus tarpusavio komunikavimas
 layout: mokymai.pug
 mok_budas: Gyvai
