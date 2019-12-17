@@ -8,7 +8,7 @@ trukme: '8'
 dalyviai: '12'
 kaina: '147'
 ---
-**Kylantys sunkumai neplanuojant laiko:**
+**Kylantys sunkumai neplanuojant laiko: <!--more-->**
 
 * Nuolatinės klaidos, darbų dubliavimasis
 * Sumažėjęs darbo efektyvumas
