@@ -6,7 +6,7 @@ layout: mokymai.pug
 mok_budas: Gyvai
 trukme: '8'
 dalyviai: '15'
-kaina: '157'
+kaina: '137'
 ---
 **Kylantys sunkumai tarpusavio komunikacijoje:**
 
