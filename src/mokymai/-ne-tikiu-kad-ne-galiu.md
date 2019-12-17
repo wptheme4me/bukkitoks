@@ -18,11 +18,13 @@ kaina: '137'
 * Nedrąsų kalbėti su vadovu;
 * Nežinau, kaip pradėti pokalbį su vadovu;
 * Dirbdamas (-a) jaučiu įtampą;
-* Stresuoju darbo aplinkoje.
+* Stresuoju darbo aplinkoje. <!--more-->
 
-**Sesijos tikslas: <!--more-->**
+**Sesijos tikslas:**
 
 Sukurti žmonėms terpę išsakyti savuosius sunkumus, bendrai rasti sprendimus, apsibrėžti veiksmus ir pakelti savąjį emocinį intelektą/ suvokimą į aukštesnį lygį.
+
+
 
 **Trumpai apie mane:**
 
