@@ -1,6 +1,6 @@
 ---
 title: Rimvydas Jurkuvėnas
-photo: /img/uploads/rj_pagr.jpg
+photo: /img/uploads/lektorius-rimvydas-jurkuvenas.png
 layout: lektorius.pug
 apie:
   - aprasymas: >-
