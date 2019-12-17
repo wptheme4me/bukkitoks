@@ -1,7 +1,7 @@
 ---
 eiliskumas: '2'
-sritis: Sąmoningas laiko planavimas
-title: Laiko planavimas
+sritis: Laiko planavimas
+title: Sąmoningas laiko planavimas
 layout: mokymai.pug
 mok_budas: Gyvai
 trukme: '8'
