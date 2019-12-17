@@ -24,3 +24,27 @@ Labai aiškiai perteikti pardavimo tiesas, metodikas, sąmoningai atliekamus vei
 **Sesija skirta:**
 
 Naujiems, esamiems, būsimiems pardavimų vadybininkams bei vadovams tiek dirbantiems tiesiogiai su klientais, tiek telefonu.
+
+
+
+**Trumpai apie mane:**
+
+Pardavimo treneris, lektorius, absoliutus praktikas;
+
+10+ metų aktyviai ugdau pardavimo įgūdžius, aptarnavimą, motyvaciją;
+
+1000+ pravedęs mokymų sesijų;
+
+1500+ dalyvavęs susitikimuose su skirtingų veiklų įmonių vadovais ir vykdęs pardavimus/ derybas;
+
+3000+ išanalizavęs pokalbių telefonu ir pateikęs pardavėjams/ vadovams individualų grįžtamąjį ryšį;
+
+Esu autorius pokalbių scenarijų šaltiems/ šiltiems skambučiams bei pardavimo sekų, kuriomis vadovaujasi didžiausios įmonės Lietuvoje.
+
+**Vertybės:**
+
+Gerbti | Suprasti | Būti dėkingam
+
+**Mano ugdyti darbuotojai įmonėse:**
+
+Telia, Senukai, Agrochema, Lietuvos geležinkeliai, Lietuvos paštas, Topo centras, JCDecaux, Bonum publicum, BC Žalgiris
