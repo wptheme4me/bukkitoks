@@ -4,10 +4,9 @@ photo: /img/uploads/lektorius-rimvydas-jurkuvenas.png
 layout: lektorius.pug
 apie:
   - aprasymas: >-
-      Esu žingeidus, aktyvus, besišypsantis 35 metų vyras. Vedęs ir su žmona
-      Laura auginame ketverių metų dukrytę Saulę. Šiuo metu esu MB "Būk Kitoks"
-      savininkas, pardavimo treneris, lektorius ir UAB "Telia Lietuva" B2B
-      treneris bei UAB "Telia Company" Europos darbo tarybos narys.
+      Esu žingeidus, aktyvus, dažniausiai besišypsantis 36 metų vyras. Vedęs. Su
+      žmona Laura auginame šešerių metų dukrytę Saulę. Esu MB "Būk Kitoks"
+      įkūrėjas, savininkas, pardavimo treneris, lektorius.
     skilties_pavadinimas: Rimvydas Jurkuvėnas
     sritis: Apie mane
   - aprasymas: >-
@@ -16,30 +15,40 @@ apie:
       pardaviminius, derybinius įgūdžius ir iš kurių sėmiausi verslumo,
       praktinės patirties apie įvairiausias veiklos sritis (mažmeninė/ didmeninė
       prekyba, transportas, statyba, informacinės technologijos, gamyba ir kt.)
-      bei bendravimo ir gyvenimiškos patirties.
-    skilties_pavadinimas: 15 metų patirties versle
+      bei bendravimo ir gyvenimiškos, vertybinės patirties.
+    skilties_pavadinimas: 15+ metų patirties versle
     sritis: Patirtis
   - aprasymas: >-
-      Daugiau kaip 10 metus specializuojuosi kaip mokymų treneris, pardavimų,
-      aptarnavimo, nuostatų temomis. Patirties sėmiausi iš geriausių Lietuvos ir
-      užsienio mokymų trenerių bei psichologų. Pravedžiau daugiau kaip 1000
-      sesijų skirtingoms žmonių grupėms.
-    skilties_pavadinimas: 10 metai lektorystės
+      Daugiau kaip 10 metų specializuojuosi kaip mokymų treneris, pardavimų,
+      aptarnavimo, emocinio intelekto temomis. Patirties sėmiausi ir kasdien
+      semiuose iš geriausių Lietuvos ir užsienio mokymų trenerių bei psichologų.
+      Pravedžiau daugiau kaip 1000 sesijų skirtingoms žmonių grupėms.
+    skilties_pavadinimas: 10+ metų lektorystės
     sritis: Patirtis
   - aprasymas: >-
-      Tai liudija faktas, jog esu vienas iš aktyviausių (iš daugiau kaip 1200
+      Tai liudija faktas, jog buvau vienas iš aktyviausių (iš daugiau kaip 1200
       praktikų (2013m.-2016m.) ir inovatyviauias (2016m.) socialinės iniciatyvos
       "būsiu___" (buvusios "Kam to reikia?!) praktikas. Iniciatyvos tikslas, kad
       verslo profesionalai neatlygintinai dalintųsi patirtimi su moksleiviais.
-      Per pastaruosius penkis šios iniciatyvos gyvavimo metus bei dalyvavimą
-      joje, pasiekiau daugiau kaip 50 000 moksleivių ir pravedžiau jiems
-      aktualias sesijas.
+      Per pirmuosius penkis šios iniciatyvos gyvavimo metus bei dalyvavimą joje,
+      pasiekiau daugiau kaip 50 000 moksleivių ir pravedžiau jiems aktualias
+      sesijas.
+
+      Šiuo metu neatlygintinai dalinuosi žiniomis su jaunimu bei finansais (5%
+      nuo pajamų) su socialiai remtinais žmonėmis.
     skilties_pavadinimas: Socialiai atsakingas
     sritis: Atsakingumas
   - aprasymas: >-
       Domiuosi psichologija, pardavimais, naujausiomis technologijomis, skaitau
-      pozityvią, įkvepiančią literatūrą. Vadovaujuosi taisykle: Elkis su kitais
-      taip, kaip norėtum, kad elgtųsi su Tavimi.
+      ir konspektuojuosi pozityvią, įkvepiančią, istorinę, intelektualią
+      literatūrą. Tai darau kas rytą nuo 6h iki 7h. Rezultatas - 55 knygos per
+      metus.
+
+      Reguliariai lankausi įvairiausiuose seminaruose ir keliu savo
+      kompetenciją, kitų, patyrusių, lektorių dėka.
+
+      Vadovaujuosi taisykle: "Elkis su kitais taip, kaip norėtum, kad elgtųsi su
+      Tavimi".
     skilties_pavadinimas: Žingeidus
     sritis: Žingeidumas
   - aprasymas: >-
