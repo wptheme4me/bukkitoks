@@ -9,23 +9,25 @@ dalyviai: '15'
 kaina: '157'
 video: ''
 ---
-Pardavimo procesas - malonumas su didele emocine ir finansine grąžomis, kurį išmokus kitaip nepavadinsi.
+**Kylantys sunkumai pardavimuose: <!--more-->**
 
-Esu pardavimo sekų autorius ir praktikas (bendraujant su klientais "akis į akį" ir telefonu). Mano kelionė prasidėjo prieš 15 metų. Pirmi metai buvo pilni streso, nepagrįstų baimių, neaiškių veiksmų, nes nieko nesupratau apie pardavimus. Perversmas įvyko po kelių metų, kada po aktyvių mokymų, papildomo savarankiško studijavimo, sėkmingų didelių, vidutinių ir mažų pardavimų, galėjau aiškiai paaiškinti žodžiais, kaip tai vyksta ir veiksmais, realių susitikimų su klientais metu, patvirtinti tiesas, kurias SĄMONINGAI taikydamas pasiekiu norimą rezultatą.<!--more--> Dar po poros metų tapau B2B/ B2C pardavimų treneriu ir pradėjau mokyti pardavimo meno įvairiausių įmonių naujus ir esamus darbuotojus. Tai jau darau pastaruosius 10 metų. Su pirmaisiais sėkmingais pardavimais prasidėjo malonumas, kuris tęsiasi iki šiol.
-
-Linkiu šį jausmą atrasti kiekvienam, naujam, esamam, būsimam pardavėjui ir kasdien skinti norimus vaisius.
-
-Nei vienas negimė su "super pardavėjo" gebėjimais, tačiau kiekvienas gimė, kad kažkuo taptų. Linkiu tapti vertinamais rinkoje pardavėjais, tad nešvaistykit brangaus laiko ieškodami atsakymų, vaikščiodami nežinomais keliais, pasinaudokite sėkminga ir laiko patikrinta praktika jau DABAR!
+* Kiekvienas darbuotojas pardavinėja jam įprastu būdu, chaotiškai;
+* Vyrauja neigiamos nuostatos į klientus, parduodamus produktus;
+* Nėra sąmoningos sekos, kuri leistų visiems pardavėjams suprasti aiškią mūsų įmonės pardavimo poziciją;
+* Darbuotojai atlieka daug nesąmoningų/ bereikalingų veiksmų, kurie gali pakenkti dialogui su klientu;
+* Stresas skambinti, nes nėra įpročio, aiškaus proceso, kuris apibrėžtų, kaip teisingai tai atlikti;
+* Įtampa važiuoti pas klientus, nes didžiulė nežinia, kaip bus įgyvendintas susitikimas, kaip elgtis konfliktinėse situacijose ar reaguoti į skirtingus klientų asmenybinius tipus;
+* Klientų vengimas parduotuvėje (darbo vietoje)/ akių kontakto nepalaikymas, nes įsitvirtinusios didžiulės neigiamos nuostatos bei baimės.
 
 **Sesijos tikslas:**
 
-Labai aiškiai perteikti pardavimo tiesas, metodikas, sąmoningai atliekamus veiksmus, kurie leis sustiprinti pasitikėjimą savimi, valdyti norimą dialogą su potencialiu/ nauju/ esamu klientu ar tiekėju, saugiai bei užtikrintai jaustis derybų metu ir pasiekti užsibrėžtus tikslus.
+Labai aiškiai perteikti pardavimo tiesas, metodikas, dažniausiai daromas klaidas, sąmoningai atliekamus veiksmus, kurie leis sustiprinti pasitikėjimą savimi, valdyti norimą dialogą su potencialiu/ nauju/ esamu klientu ar tiekėju, saugiai bei užtikrintai jaustis derybų metu ir pasiekti užsibrėžtus tikslus.
 
 **Sesija skirta:**
 
-Naujiems, esamiems, būsimiems pardavimų vadybininkams bei vadovams tiek dirbantiems tiesiogiai su klientais, tiek telefonu.
+Naujiems, esamiems, būsimiems pardavimų vadybininkams bei vadovams tiek dirbantiems tiesiogiai su klientais, tiek telefonu, tiek B2B (verslas su verslu), tiek B2C (verslas su fiziniais asmenimis).
 
-
+Sesija absoliučiai adaptuojama konkrečiai įmonei, jos veiklos sričiai bei parduodamiems produktams.
 
 **Trumpai apie mane:**
 
