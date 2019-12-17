@@ -17,7 +17,7 @@ kaina: '147'
 * Nusivylimas kasdieniu darbu/ Asmeninio pasitenkinimo mažėjimas
 * Įtampa darbo vietoje/ Stresas, nemiga
 * Darbo ir asmeninio gyvenimo disbalansas
-* Sąmišis prioritetuose/ Chaotiškas darbas
+* Sąmyšis prioritetuose/ Chaotiškas darbas
 * Gėda prieš vadovus/ klientus
 * Įmonės/ komandos rezultatų mažėjimas
 * Pamiršti darbai, susitikimai, pažadai
