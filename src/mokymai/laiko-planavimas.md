@@ -10,17 +10,17 @@ kaina: '147'
 ---
 **Kylantys sunkumai neplanuojant laiko: <!--more-->**
 
-* Nuolatinės klaidos, darbų dubliavimasis
-* Sumažėjęs darbo efektyvumas
-* Koncentracijos stoka
-* Konfliktai su kolegomis, klientais, vadovais
-* Nusivylimas kasdieniu darbu/ Asmeninio pasitenkinimo mažėjimas
-* Įtampa darbo vietoje/ Stresas, nemiga
-* Darbo ir asmeninio gyvenimo disbalansas
-* Sąmyšis prioritetuose/ Chaotiškas darbas
-* Gėda prieš vadovus/ klientus
-* Įmonės/ komandos rezultatų mažėjimas
-* Pamiršti darbai, susitikimai, pažadai
+* Nuolatinės klaidos, darbų dubliavimasis;
+* Sumažėjęs darbo efektyvumas;
+* Koncentracijos stoka;
+* Konfliktai su kolegomis, klientais, vadovais;
+* Nusivylimas kasdieniu darbu/ Asmeninio pasitenkinimo mažėjimas;
+* Įtampa darbo vietoje/ Stresas, nemiga;
+* Darbo ir asmeninio gyvenimo disbalansas;
+* Sąmyšis prioritetuose/ Chaotiškas darbas;
+* Gėda prieš vadovus/ klientus;
+* Įmonės/ komandos rezultatų mažėjimas;
+* Pamiršti darbai, susitikimai, pažadai.
 
 **Sesijos tikslas:**
 
@@ -34,11 +34,11 @@ Išmokyti įsivertinti realų savąjį užimtumą, prisiimti darbų tiek, kiek l
 
 **Sesijos turinys:**
 
-25% - teorija, 75% - praktika - įpročio formavimas
+25% - teorija, 75% - praktika - įpročio formavimas.
 
 **Sesija skirta:**
 
-Valdantiems didelius informacijos srautus ir norintiems skrupulingai valdyti savo laiką bei turėti darbo ir laisvalaikio/ asmeninio gyvenimo balansą.
+Valdantiems didelius/ ilgalaikius informacijos srautus ir norintiems skrupulingai valdyti savo laiką bei turėti darbo ir laisvalaikio/ asmeninio gyvenimo balansą.
 
 **Trumpai apie mane:**
 
