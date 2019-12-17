@@ -56,7 +56,7 @@ apie:
     skilties_pavadinimas: Žingeidus
     sritis: Žingeidumas
   - aprasymas: >-
-      <p>Įmonės, kurių darbuotojams vedžiau mokymus mano minėtomis temomis:
+      <p>Įmonės, kurių darbuotojams vedžiau/ vedu mokymus minėtomis temomis:
       TELIA, TOPOCENTRAS, LIETUVOS PAŠTAS, ŽALGIRIO KREPŠINIO CENTRAS, SENUKAI,
       AGROCHEMA, LIETUVOS GELEŽINKELIAI, NARBUTAS, LINDSTROM, FLEET COMPLETE,
       SEB, JCDECAUX, BONUM PUBLICUM, SVAITA, SQUOLIO IR KITOMS.</p>
@@ -64,18 +64,18 @@ apie:
       <p>Skaičiau pranešimus švietimo bendruomenei apie "Z kartą" bei "XXI a.
       mokykla. Mokymasis tiriant", verslo bendruomenei apie kibernetinį saugumą.
       Ugdžiau jaunuosius lyderius kartu su kitais garsiais Lietuvos treneriais
-      sveikintinoje iniciatyvoje "Lyderių inkubatorius".<p/>
+      sveikintinoje iniciatyvoje "Lyderių inkubatorius".
     skilties_pavadinimas: Patikimas
     sritis: Patikimumas
   - aprasymas: >-
-      <p>Manieji klientai kalba gyvai ir pasakydami visą tiesą apie mane ir
+      Manieji klientai kalba gyvai ir pasakydami visą tiesą apie mane ir
       nebūtinai 100% pozityvią, tad jei turite norą išgirsti visą tiesą apie
-      mane tiesiogiai iš manųjų užsakovų lupų, tuomet informuokite ir
+      mane tiesiogiai iš manųjų užsakovų lūpų, tuomet informuokite ir
       pasidalinsiu kontaktais žmonių, kurie atsakys į visus Jums rūpimus
       klausimus.<p>
 
       <p>O jei pageidaujate paskaityti, kaip atsiliepia užsakovas apie mane, tai
-      štai Jums trumpas ir nuoširdus komentaras:
+      štai Jums trumpas ir nuoširdus komentaras (tekstas nekoreguotas):
 
       <p>Bendradarbiavome su Rimvydu "Rezultatyvaus pardavimo" mokymuose
       pardavimų vadybininkų komandai. Tai buvo sklandi, nuoširdi ir taikliai
@@ -86,7 +86,7 @@ apie:
       jėgom išgryninti aiškų rezultatyvaus pardavimo procesą ir scenarijų.
       Tęstiniai bendri susitikimai su klientais po mokymų įtvirtino medžiagą ir
       užtvirtino, kas iš tiesų rūpi klientams (pasirodo jiems reikia tiek
-      nedaug):)
+      nedaug) :)
 
       <p/>Rimvydas yra labai pozityvus ir tai motyvuoja aplinkinius -
       džiaugiausi ir didžiavausi savo pardavėjų komanda, matydamas jų
