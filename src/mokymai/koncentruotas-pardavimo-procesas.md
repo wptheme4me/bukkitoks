@@ -9,7 +9,7 @@ dalyviai: '15'
 kaina: '157'
 video: ''
 ---
-**Kylantys sunkumai pardavimuose: <!--more-->**
+**Kylantys sunkumai pardavimuose (dalyvių įvardinti): <!--more-->**
 
 * Kiekvienas darbuotojas pardavinėja jam įprastu būdu, chaotiškai;
 * Vyrauja neigiamos nuostatos į klientus, parduodamus produktus;
