@@ -27,7 +27,7 @@ Labai aiškiai perteikti pardavimo tiesas, metodikas, dažniausiai daromas klaid
 
 Naujiems, esamiems, būsimiems pardavimų vadybininkams bei vadovams tiek dirbantiems tiesiogiai su klientais, tiek telefonu, tiek B2B (verslas su verslu), tiek B2C (verslas su fiziniais asmenimis);
 
-Sesija absoliučiai adaptuojama konkrečiai įmonei, jos veiklos sričiai bei parduodamiems produktams.
+Sesija absoliučiai adaptuojama konkrečiai įmonei, jos veiklos sričiai, atsižvelgiant į darbuotojų kompetenciją bei parduodamus produktus.
 
 **Trumpai apie mane:**
 
