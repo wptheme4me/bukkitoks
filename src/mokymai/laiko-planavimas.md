@@ -8,19 +8,20 @@ trukme: '8'
 dalyviai: '12'
 kaina: '147'
 ---
-**Kylantys sunkumai neplanuojant laiko: <!--more-->**
+**Kylantys sunkumai neplanuojant laiko (dalyvių įvardinti): <!--more-->**
 
 * Nuolatinės klaidos, darbų dubliavimasis;
 * Sumažėjęs darbo efektyvumas;
 * Koncentracijos stoka;
 * Konfliktai su kolegomis, klientais, vadovais;
-* Nusivylimas kasdieniu darbu/ Asmeninio pasitenkinimo mažėjimas;
-* Įtampa darbo vietoje/ Stresas, nemiga;
+* Nusivylimas kasdieniu darbu/ asmeninio pasitenkinimo mažėjimas;
+* Įtampa darbo vietoje/ stresas, nemiga;
 * Darbo ir asmeninio gyvenimo disbalansas;
-* Sąmyšis prioritetuose/ Chaotiškas darbas;
+* Sąmyšis prioritetuose/ chaotiškas darbas;
 * Gėda prieš vadovus/ klientus;
 * Įmonės/ komandos rezultatų mažėjimas;
-* Pamiršti darbai, susitikimai, pažadai.
+* Pamiršti darbai, susitikimai, pažadai;
+* Sumaištis galvoje dėl didelio informacijos srauto.
 
 **Sesijos tikslas:**
 
