@@ -35,7 +35,7 @@ Išmokyti įsivertinti realų savąjį užimtumą, prisiimti darbų tiek, kiek l
 
 **Sesijos turinys:**
 
-25% - teorija, 75% - praktika - įpročio formavimas.
+25% - teorija - "kodėl to reikia?" prasmei suvokti, prioritetams apsibrėžti, 75% - praktika - įpročio formavimas.
 
 **Sesija skirta:**
 
