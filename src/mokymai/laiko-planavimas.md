@@ -8,7 +8,7 @@ trukme: '8'
 dalyviai: '12'
 kaina: '147'
 ---
-**Kylantys sunkumai neplanuojant laiko (dalyvių įvardinti): <!--more-->**
+**Kylantys sunkumai neplanuojant laiko (dalyvių įvardijami): <!--more-->**
 
 * Nuolatinės klaidos, darbų dubliavimasis;
 * Sumažėjęs darbo efektyvumas;
@@ -45,7 +45,7 @@ Valdantiems didelius/ ilgalaikius informacijos srautus ir norintiems skrupulinga
 
 Lektorius, absoliutus praktikas;
 
-10+ metų aktyviai ugdau pardavimo įgūdžius, aptarnavimą, motyvaciją;
+11+ metų aktyviai ugdau pardavimo įgūdžius, aptarnavimą, motyvaciją;
 
 1000+ pravedęs mokymų sesijų;
 
@@ -60,3 +60,7 @@ Gerbti | Suprasti | Būti dėkingam
 **Ugdyti darbuotojai įmonėse:**
 
 Telia, Senukai, Agrochema, Lietuvos geležinkeliai, Lietuvos paštas, Topo centras, JCDecaux, Bonum publicum, BC Žalgiris
+
+
+
+**Būk Kitoks! - Būk kasdien bent šiek tiek geresnis nei vakar.**
