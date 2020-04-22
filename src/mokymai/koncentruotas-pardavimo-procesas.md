@@ -9,7 +9,7 @@ dalyviai: '15'
 kaina: '157'
 video: ''
 ---
-**Kylantys sunkumai pardavimuose (dalyvių įvardinti): <!--more-->**
+**Kylantys sunkumai pardavimuose (dalyvių įvardijami): <!--more-->**
 
 * Kiekvienas darbuotojas pardavinėja jam įprastu būdu, chaotiškai;
 * Vyrauja neigiamos nuostatos į klientus, parduodamus produktus;
@@ -33,7 +33,7 @@ Sesija absoliučiai adaptuojama konkrečiai įmonei, jos veiklos sričiai, atsi�
 
 Pardavimo treneris, lektorius, absoliutus praktikas;
 
-10+ metų aktyviai ugdau pardavimo įgūdžius, aptarnavimą, motyvaciją;
+11+ metų aktyviai ugdau pardavimo įgūdžius, aptarnavimą, motyvaciją;
 
 1000+ pravedęs mokymų sesijų;
 
@@ -50,3 +50,7 @@ Gerbti | Suprasti | Būti dėkingam
 **Ugdyti darbuotojai įmonėse:**
 
 Telia, Senukai, Agrochema, Lietuvos geležinkeliai, Lietuvos paštas, Topo centras, JCDecaux, Bonum publicum, BC Žalgiris
+
+
+
+**Būk Kitoks! - Būk kasdien bent šiek tiek geresnis nei vakar.**
