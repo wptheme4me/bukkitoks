@@ -8,7 +8,7 @@ trukme: '8'
 dalyviai: '15'
 kaina: '137'
 ---
-**Kylantys sunkumai tarpusavio komunikacijoje (dalyvių įvardinti): <!--more-->**
+**Kylantys sunkumai tarpusavio komunikacijoje (dalyvių įvardijami): <!--more-->**
 
 * Sunku suprasti vienas kitą;
 * Daugelis vadovaujasi prielaidomis;
@@ -30,7 +30,7 @@ Sukurti žmonėms terpę išsakyti savuosius sunkumus, bendrai rasti sprendimus,
 
 Lektorius, absoliutus praktikas;
 
-10+ metų aktyviai ugdau pardavimo įgūdžius, aptarnavimą, motyvaciją;
+11+ metų aktyviai ugdau pardavimo įgūdžius, aptarnavimą, motyvaciją;
 
 1000+ pravedęs mokymų sesijų;
 
@@ -45,3 +45,7 @@ Gerbti | Suprasti | Būti dėkingam
 **Ugdyti darbuotojai įmonėse:**
 
 Telia, Senukai, Agrochema, Lietuvos geležinkeliai, Lietuvos paštas, Topo centras, JCDecaux, Bonum publicum, BC Žalgiris
+
+
+
+**Būk Kitoks! - Būk kasdien bent šiek tiek geresnis nei vakar.**
