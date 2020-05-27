@@ -6,7 +6,7 @@ layout: mokymai.pug
 mok_budas: Gyvai
 trukme: '8'
 dalyviai: '12'
-kaina: '147'
+kaina: '127'
 ---
 **Kylantys sunkumai neplanuojant laiko (dalyvių įvardijami): <!--more-->**
 
@@ -57,10 +57,8 @@ Lektorius, absoliutus praktikas;
 
 Gerbti | Suprasti | Būti dėkingam
 
-**Ugdyti darbuotojai įmonėse:**
+**Ugdyti darbuotojai šiose srityse:**
 
-Telia, Senukai, Agrochema, Lietuvos geležinkeliai, Lietuvos paštas, Topo centras, JCDecaux, Bonum publicum, BC Žalgiris
-
-
+Telekomunikacijos, logistika, draudimas, IT, reklama, sportas, gamyba, mažmena, didmena, finansai.
 
 **Būk Kitoks! - Būk kasdien bent šiek tiek geresnis nei vakar.**
