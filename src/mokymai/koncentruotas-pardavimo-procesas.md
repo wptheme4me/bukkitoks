@@ -47,10 +47,8 @@ Esu autorius pokalbių scenarijų šaltiems/ šiltiems skambučiams bei pardavim
 
 Gerbti | Suprasti | Būti dėkingam
 
-**Ugdyti darbuotojai įmonėse:**
+**Ugdyti darbuotojai šiose srityse:**
 
-Telia, Senukai, Agrochema, Lietuvos geležinkeliai, Lietuvos paštas, Topo centras, JCDecaux, Bonum publicum, BC Žalgiris
-
-
+Telekomunikacijos, Logistika, Draudimas, IT, Reklama, Sportas, Gamyba, Mažmena, Didmena, Finansai ir kt.
 
 **Būk Kitoks! - Būk kasdien bent šiek tiek geresnis nei vakar.**
