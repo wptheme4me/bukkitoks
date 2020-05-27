@@ -6,7 +6,7 @@ layout: mokymai.pug
 mok_budas: Gyvai
 trukme: '8'
 dalyviai: '15'
-kaina: '157'
+kaina: '137'
 video: ''
 ---
 **Kylantys sunkumai pardavimuose (dalyvių įvardijami): <!--more-->**
@@ -49,6 +49,6 @@ Gerbti | Suprasti | Būti dėkingam
 
 **Ugdyti darbuotojai šiose srityse:**
 
-Telekomunikacijos, Logistika, Draudimas, IT, Reklama, Sportas, Gamyba, Mažmena, Didmena, Finansai ir kt.
+Telekomunikacijos, logistika, draudimas, IT, reklama, sportas, gamyba, mažmena, didmena, finansai.
 
 **Būk Kitoks! - Būk kasdien bent šiek tiek geresnis nei vakar.**
