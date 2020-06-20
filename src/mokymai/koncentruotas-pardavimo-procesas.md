@@ -3,7 +3,7 @@ eiliskumas: '1'
 sritis: Pardavimai
 title: Sąmoningas pardavimas
 layout: mokymai.pug
-mok_budas: Gyvai
+mok_budas: Gyvai/ Online
 trukme: '8'
 dalyviai: '15'
 kaina: '137'
