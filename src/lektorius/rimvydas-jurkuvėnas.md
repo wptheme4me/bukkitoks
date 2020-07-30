@@ -7,8 +7,7 @@ apie:
       Esu žingeidus, aktyvus, dažniausiai besišypsantis 37 metų vyras. Vedęs. Su
       žmona Laura auginame šešerių metų dukrytę Saulę.<p>
 
-      <p>Esu MB "Būk Kitoks" įkūrėjas, direktorius, pardavimo treneris,
-      lektorius.
+      <p>MB "Būk Kitoks" įkūrėjas, direktorius, pardavimo treneris, lektorius.
 
       <p>Manosios vertybės: Gerbti | Suprasti | Būti dėkingam<p>
 
