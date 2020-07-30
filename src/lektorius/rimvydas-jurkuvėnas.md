@@ -4,30 +4,39 @@ photo: /img/uploads/lektorius-rimvydas-jurkuvenas.png
 layout: lektorius.pug
 apie:
   - aprasymas: >-
-      Esu žingeidus, aktyvus, dažniausiai besišypsantis 36 metų vyras. Vedęs. Su
+      Esu žingeidus, aktyvus, dažniausiai besišypsantis 37 metų vyras. Vedęs. Su
       žmona Laura auginame šešerių metų dukrytę Saulę.<p>
 
       <p>Esu MB "Būk Kitoks" įkūrėjas, savininkas, pardavimo treneris,
       lektorius.
+
+      <p>Manosios vertybės: Gerbti | Suprasti | Būti dėkingam<p>
+
+      <p>Kredo - “Elkis su kitais taip, kaip norėtum, kad su Tavimi elgtųsi”<p>
+
+      <p>Tikslas – Įkvėpti žmones atskleisti savąjį potencialą atliekant
+      sąmoningus veiksmus.
     skilties_pavadinimas: Rimvydas Jurkuvėnas
     sritis: Apie mane
   - aprasymas: >-
-      Daugiau kaip 15 metų specializuojuosi verslo aplinkoje. Per šį laikotarpį
-      susitikau su daugiau kaip 1500 įmonių vadovų, su kuriais praktikavausi
-      pardaviminius, derybinius įgūdžius ir iš kurių sėmiausi verslumo,
-      praktinės patirties apie įvairiausias veiklos sritis (mažmeninė/ didmeninė
-      prekyba, transportas, statyba, informacinės technologijos, gamyba ir kt.)
-      bei bendravimo ir gyvenimiškos, vertybinės patirties.
-    skilties_pavadinimas: 15+ metų patirties versle
+      Daugiau kaip 16 metų specializuojuosi verslo aplinkoje. Per šį laikotarpį
+      susitikau su daugiau kaip 1500 įmonių vadovų, su kuriais vykdžiau dialogus
+      pardavimų, derybų temomis ir iš kurių sėmiausi verslumo, praktinės
+      patirties apie įvairiausias veiklos sritis (mažmeninė/ didmeninė prekyba,
+      transportas, statyba, informacinės technologijos, gamyba, finansai ir kt.)
+      bei komunikavimo, gyvenimiškos ir neišvengiamai vertybinės patirties.
+    skilties_pavadinimas: 16+ metų patirties versle
     sritis: Patirtis
   - aprasymas: >-
-      Daugiau kaip 10 metų specializuojuosi kaip mokymų treneris, pardavimų,
-      aptarnavimo, emocinio intelekto temomis. Patirties sėmiausi ir kasdien
-      semiuose iš geriausių Lietuvos ir užsienio mokymų trenerių bei
-      psichologų.<p>
+      Daugiau kaip 11 metų specializuojuosi kaip mokymų treneris, sąmoningo
+      pardavimo, aptarnavimo, planavimo, emocinio intelekto temomis. Patirties
+      sėmiausi ir kasdien semiuosi visa tai pritaikydamas realybėje
+      (mokydamasis/ mokydamas kitus), taip pat iš vertybiškai man stiprių ir
+      patrauklių, ir teigiamai visuomenės vertinamų Lietuvos bei užsienio mokymų
+      profesionalų/ psichologų, ir, žinoma, iš literatūros<p>
 
       <p>Pravedžiau daugiau kaip 1000 sesijų skirtingoms žmonių grupėms.
-    skilties_pavadinimas: 10+ metų lektorystės
+    skilties_pavadinimas: 11+ metų lektorystės
     sritis: Patirtis
   - aprasymas: >-
       Tai liudija faktas, jog buvau vienas iš aktyviausių (iš daugiau kaip 1200
@@ -45,21 +54,23 @@ apie:
   - aprasymas: >-
       <p>Domiuosi psichologija, pardavimais, naujausiomis technologijomis,
       skaitau ir konspektuojuosi pozityvią, įkvepiančią, istorinę, intelektualią
-      literatūrą. Tai darau kas rytą nuo 6h iki 7h. Rezultatas - 55 knygos per
+      literatūrą. Tai darau kas rytą nuo 6h iki 7h. Rezultatas - 44 knygos per
       metus.
 
       <p>Reguliariai lankausi įvairiausiuose seminaruose ir keliu savo
       kompetenciją, kitų, patyrusių, lektorių dėka.
-
-      <p>Vadovaujuosi taisykle: "Elkis su kitais taip, kaip norėtum, kad elgtųsi
-      su Tavimi".
     skilties_pavadinimas: Žingeidus
     sritis: Žingeidumas
   - aprasymas: >-
-      <p>Įmonės, kurių darbuotojams vedžiau/ vedu mokymus minėtomis temomis:
-      TELIA, TOPOCENTRAS, LIETUVOS PAŠTAS, ŽALGIRIO KREPŠINIO CENTRAS, SENUKAI,
-      AGROCHEMA, LIETUVOS GELEŽINKELIAI, NARBUTAS, LINDSTROM, FLEET COMPLETE,
-      SEB, JCDECAUX, BONUM PUBLICUM, SVAITA, SQUOLIO IR KITOMS.</p>
+      <p>Manieji klientai/ užsakovai kalba gyvai, šiandieniniais faktais, tad
+      jei bus poreikis tiesiogiai, iš pačių manųjų klientų lūpų, išgirsti visą
+      tiesą apie mane, kaip lektorių, vedimo stilių, gautą rezultatą ir
+      tęstinumą, informuokite ir pasidalinsiu kontaktais, kuriais paskambinę
+      galėsite visa tai sužinoti.</p>
+
+      <p>Sritys, kurių darbuotojams vedžiau/ vedu mokymus minėtomis temomis:
+      telekomunikacijos, logistika, draudimas, IT, reklama, sportas, gamyba,
+      mažmena, didmena, finansai..</p>
 
       <p>Skaičiau pranešimus švietimo bendruomenei apie "Z kartą" bei "XXI a.
       mokykla. Mokymasis tiriant", verslo bendruomenei apie kibernetinį saugumą.
@@ -68,13 +79,7 @@ apie:
     skilties_pavadinimas: Patikimas
     sritis: Patikimumas
   - aprasymas: >-
-      Manieji klientai kalba gyvai ir pasakydami visą tiesą apie mane ir
-      nebūtinai 100% pozityvią, tad jei turite norą išgirsti visą tiesą apie
-      mane tiesiogiai iš manųjų užsakovų lūpų, tuomet informuokite ir
-      pasidalinsiu kontaktais žmonių, kurie atsakys į visus Jums rūpimus
-      klausimus.<p>
-
-      <p>O jei pageidaujate paskaityti, kaip atsiliepia užsakovas apie mane, tai
+      <p>Jei pageidaujate paskaityti, kaip atsiliepia užsakovas apie mane, tai
       štai Jums trumpas ir nuoširdus komentaras (tekstas nekoreguotas):
 
       <p>Bendradarbiavome su Rimvydu "Rezultatyvaus pardavimo" mokymuose
