@@ -7,15 +7,15 @@ apie:
       Esu žingeidus, aktyvus, dažniausiai besišypsantis 37 metų vyras. Vedęs. Su
       žmona Laura auginame šešerių metų dukrytę Saulę.<p>
 
-      <p>Esu MB "Būk Kitoks" įkūrėjas, savininkas, pardavimo treneris,
+      <p>Esu MB "Būk Kitoks" įkūrėjas, direktorius, pardavimo treneris,
       lektorius.
 
-      <p>Manosios vertybės: Gerbti | Suprasti | Būti dėkingam
+      <p>Manosios vertybės: Gerbti | Suprasti | Būti dėkingam<p>
 
-      <p>Kredo - “Elkis su kitais taip, kaip norėtum, kad su Tavimi elgtųsi”
+      Kredo - “Elkis su kitais taip, kaip norėtum, kad su Tavimi elgtųsi”<p>
 
-      <p>Tikslas – Įkvėpti žmones atskleisti savąjį potencialą atliekant
-      sąmoningus veiksmus.
+      Tikslas – Įkvėpti žmones atskleisti savąjį potencialą atliekant sąmoningus
+      veiksmus.
     skilties_pavadinimas: Rimvydas Jurkuvėnas
     sritis: Apie mane
   - aprasymas: >-
