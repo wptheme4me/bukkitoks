@@ -10,12 +10,12 @@ apie:
       <p>Esu MB "Būk Kitoks" įkūrėjas, savininkas, pardavimo treneris,
       lektorius.
 
-      <p>Manosios vertybės: Gerbti | Suprasti | Būti dėkingam<p>
+      <p>Manosios vertybės: Gerbti | Suprasti | Būti dėkingam
 
-      <p>Kredo - “Elkis su kitais taip, kaip norėtum, kad su Tavimi elgtųsi”<p>
+      Kredo - “Elkis su kitais taip, kaip norėtum, kad su Tavimi elgtųsi”
 
-      <p>Tikslas – Įkvėpti žmones atskleisti savąjį potencialą atliekant
-      sąmoningus veiksmus.
+      Tikslas – Įkvėpti žmones atskleisti savąjį potencialą atliekant sąmoningus
+      veiksmus.
     skilties_pavadinimas: Rimvydas Jurkuvėnas
     sritis: Apie mane
   - aprasymas: >-
