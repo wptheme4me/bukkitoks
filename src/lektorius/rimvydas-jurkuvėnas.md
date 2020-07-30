@@ -12,10 +12,10 @@ apie:
 
       <p>Manosios vertybės: Gerbti | Suprasti | Būti dėkingam
 
-      Kredo - “Elkis su kitais taip, kaip norėtum, kad su Tavimi elgtųsi”
+      <p>Kredo - “Elkis su kitais taip, kaip norėtum, kad su Tavimi elgtųsi”
 
-      Tikslas – Įkvėpti žmones atskleisti savąjį potencialą atliekant sąmoningus
-      veiksmus.
+      <p>Tikslas – Įkvėpti žmones atskleisti savąjį potencialą atliekant
+      sąmoningus veiksmus.
     skilties_pavadinimas: Rimvydas Jurkuvėnas
     sritis: Apie mane
   - aprasymas: >-
@@ -33,7 +33,7 @@ apie:
       sėmiausi ir kasdien semiuosi visa tai pritaikydamas realybėje
       (mokydamasis/ mokydamas kitus), taip pat iš vertybiškai man stiprių ir
       patrauklių, ir teigiamai visuomenės vertinamų Lietuvos bei užsienio mokymų
-      profesionalų/ psichologų, ir, žinoma, iš literatūros<p>
+      profesionalų/ psichologų, ir, žinoma, iš literatūros.<p>
 
       <p>Pravedžiau daugiau kaip 1000 sesijų skirtingoms žmonių grupėms.
     skilties_pavadinimas: 11+ metų lektorystės
