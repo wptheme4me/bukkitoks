@@ -6,7 +6,7 @@ layout: mokymai.pug
 mok_budas: Kontaktiniu/ nuotoliniu
 trukme: '8'
 dalyviai: '15'
-kaina: '137'
+kaina: '127'
 video: ''
 ---
 **Kylantys sunkumai pardavimuose (dalyvių įvardijami): <!--more-->**
