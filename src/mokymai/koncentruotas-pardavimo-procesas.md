@@ -1,9 +1,9 @@
 ---
 eiliskumas: '1'
 sritis: Pardavimai
-title: Sąmoningas pardavimas
+title: Sąmoningas ir sąžiningas pardavimas
 layout: mokymai.pug
-mok_budas: Gyvai/ Per nuotolį
+mok_budas: Kontaktiniu/ nuotoliniu
 trukme: '8'
 dalyviai: '15'
 kaina: '137'
