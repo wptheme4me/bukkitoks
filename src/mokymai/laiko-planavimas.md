@@ -3,7 +3,7 @@ eiliskumas: '2'
 sritis: Laiko planavimas
 title: Sąmoningas laiko planavimas
 layout: mokymai.pug
-mok_budas: Gyvai
+mok_budas: Kontaktiniu/ nuotoliniu
 trukme: '8'
 dalyviai: '12'
 kaina: '127'
