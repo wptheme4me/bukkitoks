@@ -6,7 +6,7 @@ layout: mokymai.pug
 mok_budas: Kontaktiniu/ nuotoliniu
 trukme: '8'
 dalyviai: '15'
-kaina: '127'
+kaina: '117'
 ---
 **Kylantys sunkumai tarpusavio komunikacijoje (dalyvių įvardijami): <!--more-->**
 
