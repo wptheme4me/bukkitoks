@@ -1,12 +1,12 @@
 ---
-eiliskumas: '2'
+eiliskumas: '3'
 sritis: Laiko planavimas
 title: Sąmoningas laiko planavimas
 layout: mokymai.pug
 mok_budas: Kontaktiniu/ nuotoliniu
 trukme: '8'
 dalyviai: '12'
-kaina: '127'
+kaina: '117'
 ---
 **Kylantys sunkumai neplanuojant laiko (dalyvių įvardijami): <!--more-->**
 
