@@ -3,7 +3,7 @@ eiliskumas: '2'
 sritis: Emocinis intelektas
 title: Sąmoningas ir efektyvus tarpusavio komunikavimas
 layout: mokymai.pug
-mok_budas: Kontaktiniu/ nuotoliniu
+mok_budas: Kontaktinis/ nuotolinis
 trukme: '8'
 dalyviai: '15'
 kaina: '117'
