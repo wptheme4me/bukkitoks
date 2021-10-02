@@ -1,7 +1,7 @@
 ---
 eiliskumas: '3'
 sritis: Laiko planavimas
-title: Sąmoningas ir nuoseklus laiko planavimas
+title: Sąmoningas ir atsakingas laiko planavimas
 layout: mokymai.pug
 mok_budas: Kontaktinis
 trukme: '8'
