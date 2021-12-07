@@ -1,5 +1,5 @@
 ---
-eiliskumas: '2'
+eiliskumas: '3'
 sritis: Tarpusavio komunikavimas
 title: Sąmoningas ir efektyvus tarpusavio komunikavimas
 layout: mokymai.pug
