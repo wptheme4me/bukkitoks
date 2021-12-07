@@ -1,6 +1,6 @@
 ---
 eiliskumas: '2'
-sritis: Emocinis intelektas
+sritis: Tarpusavio komunikavimas
 title: Sąmoningas ir efektyvus tarpusavio komunikavimas
 layout: mokymai.pug
 mok_budas: Kontaktinis/ nuotolinis
