@@ -4,7 +4,7 @@ sritis: Tarpusavio komunikavimas
 title: Sąmoningas ir efektyvus tarpusavio komunikavimas
 layout: mokymai.pug
 mok_budas: Kontaktinis/ nuotolinis
-trukme: 8 ak.val.
+trukme: 8 ak.
 dalyviai: '15'
 kaina: '117'
 ---
