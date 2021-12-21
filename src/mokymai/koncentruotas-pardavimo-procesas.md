@@ -4,7 +4,7 @@ sritis: Pardavimai
 title: Sąmoningas ir sąžiningas pardavimas
 layout: mokymai.pug
 mok_budas: Kontaktinis/ nuotolinis
-trukme: 8 ak.val.
+trukme: 8 ak.
 dalyviai: '15'
 kaina: '127'
 video: ''
@@ -41,7 +41,7 @@ Pardavimo treneris, lektorius, absoliutus praktikas;
 
 4000+ išanalizavęs pokalbių telefonu ir pateikęs pardavėjams/ vadovams individualų grįžtamąjį ryšį;
 
-Esu autorius pokalbių scenarijų šaltiems/ šiltiems skambučiams bei pardavimo sekų, kuriomis vadovaujasi didžiausios įmonės Lietuvoje.
+35+ vidutiniškai tiek knygų perskaitantis ir susisteminantis per metus.
 
 **Vertybės:**
 
