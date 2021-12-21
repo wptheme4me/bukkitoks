@@ -4,7 +4,7 @@ sritis: Laiko planavimas
 title: Sąmoningas ir atsakingas laiko planavimas
 layout: mokymai.pug
 mok_budas: Kontaktinis
-trukme: '8'
+trukme: 8 ak.val.
 dalyviai: '12'
 kaina: '117'
 ---
@@ -45,13 +45,15 @@ Valdantiems didelius/ ilgalaikius informacijos srautus ir norintiems skrupulinga
 
 Lektorius, absoliutus praktikas;
 
-11+ metų aktyviai ugdau pardavimo įgūdžius, aptarnavimą, motyvaciją;
+12+ metų aktyviai ugdau pardavimo įgūdžius, aptarnavimą, motyvaciją;
 
 1000+ pravedęs mokymų sesijų;
 
 1500+ dalyvavęs susitikimuose su skirtingų veiklų įmonių vadovais;
 
-3000+ išanalizavęs pokalbių telefonu.
+4000+ išanalizavęs pokalbių telefonu;
+
+35+ vidutiniškai tiek knygų perskaitantis ir susisteminantis per metus.
 
 **Vertybės:**
 
@@ -59,6 +61,6 @@ Gerbti | Suprasti | Būti dėkingam
 
 **Ugdyti darbuotojai šiose srityse:**
 
-Telekomunikacijos, logistika, draudimas, IT, reklama, sportas, gamyba, mažmena, didmena, finansai.
+Telekomunikacijos, logistika, draudimas, IT, reklama, sportas, gamyba, mažmena, didmena, finansai., lėtas turizmas.
 
 **Būk Kitoks! - Būk kasdien bent šiek tiek geresnis nei vakar.**
