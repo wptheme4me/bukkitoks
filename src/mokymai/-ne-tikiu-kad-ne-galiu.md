@@ -36,7 +36,9 @@ Lektorius, absoliutus praktikas;
 
 1500+ dalyvavęs susitikimuose su skirtingų veiklų įmonių vadovais;
 
-4000+ išanalizavęs pokalbių telefonu.
+4000+ išanalizavęs pokalbių telefonu;
+
+35+ vidutiniškai tiek knygų perskaitantis ir susisteminantis per metus.
 
 **Vertybės:**
 
