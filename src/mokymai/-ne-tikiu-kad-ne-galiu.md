@@ -4,7 +4,7 @@ sritis: Tarpusavio komunikavimas
 title: Sąmoningas ir efektyvus tarpusavio komunikavimas
 layout: mokymai.pug
 mok_budas: Kontaktinis/ nuotolinis
-trukme: '8'
+trukme: 8 ak.val.
 dalyviai: '15'
 kaina: '117'
 ---
@@ -30,13 +30,13 @@ Sukurti žmonėms terpę išsakyti savuosius sunkumus, bendrai rasti sprendimus,
 
 Lektorius, absoliutus praktikas;
 
-11+ metų aktyviai ugdau pardavimo įgūdžius, aptarnavimą, motyvaciją;
+12+ metų aktyviai ugdau pardavimo įgūdžius, aptarnavimą, motyvaciją;
 
 1000+ pravedęs mokymų sesijų;
 
 1500+ dalyvavęs susitikimuose su skirtingų veiklų įmonių vadovais;
 
-3000+ išanalizavęs pokalbių telefonu.
+4000+ išanalizavęs pokalbių telefonu.
 
 **Vertybės:**
 
@@ -44,6 +44,6 @@ Gerbti | Suprasti | Būti dėkingam
 
 **Ugdyti darbuotojai šiose srityse:**
 
-Telekomunikacijos, logistika, draudimas, IT, reklama, sportas, gamyba, mažmena, didmena, finansai.
+Telekomunikacijos, logistika, draudimas, IT, reklama, sportas, gamyba, mažmena, didmena, finansai, lėtas turizmas.
 
 **Būk Kitoks! - Būk kasdien bent šiek tiek geresnis nei vakar.**
