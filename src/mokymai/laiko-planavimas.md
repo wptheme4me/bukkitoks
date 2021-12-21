@@ -4,7 +4,7 @@ sritis: Laiko planavimas
 title: Sąmoningas ir atsakingas laiko planavimas
 layout: mokymai.pug
 mok_budas: Kontaktinis
-trukme: 8 ak.val.
+trukme: 8 ak.
 dalyviai: '12'
 kaina: '117'
 ---
