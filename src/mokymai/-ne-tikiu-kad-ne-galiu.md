@@ -30,7 +30,7 @@ Sukurti žmonėms terpę išsakyti savuosius sunkumus, bendrai rasti sprendimus,
 
 Lektorius, absoliutus praktikas;
 
-12+ metų aktyviai ugdau pardavimo įgūdžius, aptarnavimą, motyvaciją;
+13+ metų aktyviai ugdau pardavimo įgūdžius, aptarnavimą, motyvaciją;
 
 1000+ pravedęs mokymų sesijų;
 
