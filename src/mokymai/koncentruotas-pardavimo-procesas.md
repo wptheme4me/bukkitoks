@@ -33,7 +33,7 @@ Sesija absoliučiai adaptuojama konkrečiai įmonei, jos veiklos sričiai, atsi�
 
 Pardavimo treneris, lektorius, absoliutus praktikas;
 
-12+ metų aktyviai ugdau pardavimo įgūdžius, aptarnavimą, motyvaciją;
+13+ metų aktyviai ugdau pardavimo įgūdžius, aptarnavimą, motyvaciją;
 
 1000+ pravedęs mokymų sesijų;
 
