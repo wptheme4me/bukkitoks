@@ -1,6 +1,6 @@
 ---
 eiliskumas: '4'
-sritis: EMOCINIS INTELEKTAS
+sritis: Tarpusavio komunikavimas
 title: GENOS emocinio intelekto kompetencijų vertinimo aptarimas
 layout: mokymai.pug
 mok_budas: Nuotoliniu/ kontaktiniu
