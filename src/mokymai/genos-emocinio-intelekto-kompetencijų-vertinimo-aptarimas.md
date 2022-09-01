@@ -4,7 +4,7 @@ sritis: EMOCINIS INTELEKTAS
 title: GENOS emocinio intelekto kompetencijų vertinimo aptarimas
 layout: mokymai.pug
 mok_budas: Nuotoliniu/ kontaktiniu
-trukme: 1h
+trukme: '1'
 dalyviai: '1'
 kaina: '157'
 ---
@@ -28,10 +28,8 @@ Teigiama įtaka - tai gebėjimas teigiamai veikti kitų jausmus, per problemų s
 
 Šios kompetencijos ugdymas stiprina lyderiškumą, savęs įgalinimą, kitaip tariant minimizuoja abejingumą vyraujančiai kasdienybei ar užsiplieskus konfliktinėms, įtampą keliančioms situacijoms, mat žmonių elgsena išreiškiama šiais veiksmais: teikia naudingą pagalbą kitiems, jiems padeda išspręsti konfliktus darbovietėje, padeda kitiems efektyviai reaguoti į įtampą keliančias situacijas, patys efektyviai reaguoja į kitų žmonių netinkamą elgesį, kuria teigiamą darbo aplinką, teigiamai veikia kitų jausmus.
 
-
-
 Linkiu kiekvienam sąmoningai suklusti ties paminėtomis EI kompetencijomis ir savosiomis emocijomis, jas aiškiai įsivardinti, mat pastarosios mumyse fiziologiškai pasireiškia kiekvieną akimirką ir tai yra svarbi asmeninio augimo dalis, kuri sąlygoja mūsų elgseną ir aplinkinių reakciją į mus. Linkiu kasdien sąmoningai tobulėti šioje temoje ir atrasti kuo daugiau naujų galimybių padėsiančių kurti geresnį (-ę) ir emociškai lankstesnį (-ę) save, geresnę aplinką, vadinasi ir geresnį rytojų mums visiems be konfliktų ir kuo sklandžiau susikalbant tarpusavy bei kuriant emociškai intelektualesnę ir lankstesnę visuomenę.
 
+Norėdami daugiau sužinoti apie GENOS emocinio intelekto kompetencijas ir su jomis susijusias elgsenas bei pritaikymą sau ar savo kolektyvui, tuomet rašykite: rimvydas@bukkitoks.lt arba skambinkite numeriu: 862010620.
 
-
-Kasdien bent šiek tiek geresnis nei vakar Rimvydas :)
+Iki malonaus :)
