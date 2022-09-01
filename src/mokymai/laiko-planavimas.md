@@ -45,7 +45,7 @@ Valdantiems didelius/ ilgalaikius informacijos srautus ir norintiems skrupulinga
 
 Lektorius, absoliutus praktikas;
 
-12+ metų aktyviai ugdau pardavimo įgūdžius, aptarnavimą, motyvaciją;
+13+ metų aktyviai ugdau pardavimo įgūdžius, aptarnavimą, motyvaciją;
 
 1000+ pravedęs mokymų sesijų;
 
