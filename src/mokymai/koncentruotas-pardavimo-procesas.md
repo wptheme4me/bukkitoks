@@ -3,8 +3,8 @@ eiliskumas: '1'
 sritis: Pardavimai
 title: Sąmoningas ir sąžiningas pardavimas
 layout: mokymai.pug
-mok_budas: Kontaktinis/ Nuotolinis
-trukme: 9ak.
+mok_budas: Kontaktinis/ nuotolinis
+trukme: '8'
 dalyviai: '15'
 kaina: '127'
 video: ''
@@ -33,15 +33,15 @@ Sesija absoliučiai adaptuojama konkrečiai įmonei, jos veiklos sričiai, atsi�
 
 Pardavimo treneris, lektorius, absoliutus praktikas;
 
-13+ metų aktyviai ugdau pardavimo įgūdžius, aptarnavimą, motyvaciją;
+11+ metų aktyviai ugdau pardavimo įgūdžius, aptarnavimą, motyvaciją;
 
 1000+ pravedęs mokymų sesijų;
 
 1500+ dalyvavęs susitikimuose su skirtingų veiklų įmonių vadovais ir vykdęs pardavimus/ derybas;
 
-4000+ išanalizavęs pokalbių telefonu ir pateikęs pardavėjams/ vadovams individualų grįžtamąjį ryšį;
+3000+ išanalizavęs pokalbių telefonu ir pateikęs pardavėjams/ vadovams individualų grįžtamąjį ryšį;
 
-35+ vidutiniškai tiek knygų perskaitantis ir susisteminantis per metus.
+Esu autorius pokalbių scenarijų šaltiems/ šiltiems skambučiams bei pardavimo sekų, kuriomis vadovaujasi didžiausios įmonės Lietuvoje.
 
 **Vertybės:**
 
@@ -49,6 +49,6 @@ Gerbti | Suprasti | Būti dėkingam
 
 **Ugdyti darbuotojai šiose srityse:**
 
-Telekomunikacijos, logistika, draudimas, IT, reklama, sportas, gamyba, mažmena, didmena, finansai, lėtas turizmas.
+Telekomunikacijos, logistika, draudimas, IT, reklama, sportas, gamyba, mažmena, didmena, finansai.
 
 **Būk Kitoks! - Būk kasdien bent šiek tiek geresnis nei vakar.**

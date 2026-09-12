@@ -1,10 +1,10 @@
 ---
-eiliskumas: '3'
-sritis: Tarpusavio komunikavimas
+eiliskumas: '2'
+sritis: Emocinis intelektas
 title: Sąmoningas ir efektyvus tarpusavio komunikavimas
 layout: mokymai.pug
-mok_budas: Kontaktinis/ Nuotolinis
-trukme: 9ak.
+mok_budas: Kontaktinis/ nuotolinis
+trukme: '8'
 dalyviai: '15'
 kaina: '117'
 ---
@@ -30,15 +30,13 @@ Sukurti žmonėms terpę išsakyti savuosius sunkumus, bendrai rasti sprendimus,
 
 Lektorius, absoliutus praktikas;
 
-13+ metų aktyviai ugdau pardavimo įgūdžius, aptarnavimą, motyvaciją;
+11+ metų aktyviai ugdau pardavimo įgūdžius, aptarnavimą, motyvaciją;
 
 1000+ pravedęs mokymų sesijų;
 
 1500+ dalyvavęs susitikimuose su skirtingų veiklų įmonių vadovais;
 
-4000+ išanalizavęs pokalbių telefonu;
-
-35+ vidutiniškai tiek knygų perskaitantis ir susisteminantis per metus.
+3000+ išanalizavęs pokalbių telefonu.
 
 **Vertybės:**
 
@@ -46,6 +44,6 @@ Gerbti | Suprasti | Būti dėkingam
 
 **Ugdyti darbuotojai šiose srityse:**
 
-Telekomunikacijos, logistika, draudimas, IT, reklama, sportas, gamyba, mažmena, didmena, finansai, lėtas turizmas.
+Telekomunikacijos, logistika, draudimas, IT, reklama, sportas, gamyba, mažmena, didmena, finansai.
 
 **Būk Kitoks! - Būk kasdien bent šiek tiek geresnis nei vakar.**
